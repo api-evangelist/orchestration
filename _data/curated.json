@@ -1,10 +1,154 @@
 [
 	{
+		"curated_id": "yd48cGX7fNiiBaT116FGflXYMDyDzZ8xuUSFTSgkRQzMiWIH2MtUUztG9ogSrvzV4C5NrIGLySueH33LJFLGRiLg117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Orchestrating Docker Swarm With Cloudify",
+		"url": "https://dzone.com/articles/orchestrating-docker-112-swarm-with-cloudify",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "llhk1MbAlylmHF8KL5Dxuq3sSgp0A0q3anfd116JjtYby8UaCm6piUkHe8z123n9H59VTXNJUtyp8TQOxyK41Yvpgg117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Automate Processes Not Relationships",
+		"url": "http://www.activecampaign.com/blog/human-touch-and-sales-automation/",
+		"domain": "www.activecampaign.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EX72JawkuDwBLvvqjOY0KWKIhaWugj0XB116FrqXQhVdb8OQmb6w6d0123p2okoZHA8fHOjk123lZm8Q1J1AW9b0YTLQ117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Incremental Iterative Data Processing with Timely Dataflow",
+		"url": "http://acmwebvm01.acm.org/magazines/2016/10/207774-incremental-iterative-data-processing-with-timely-dataflow/fulltext",
+		"domain": "acmwebvm01.acm.org",
+		"image": ""
+	},
+	{
+		"curated_id": "giKy116Y8MPPZtvyj4df5hzBpo53FRastUwfo4BArHLbOwyNEhkiCauebYvJ3TSKVbliJGzKDEFKHnXsB3KZfsGQ117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Whats New in OpenShift 33  Cluster Management",
+		"url": "https://blog.openshift.com/whats-new-openshift-3-3-cluster-management/",
+		"domain": "blog.openshift.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GVazqZXlbBCGokOo8gi080TS0fstyBofOuIVeXifBT51233i4pQ52iFB123vGKcRT4N5KzU89IeQTKFfJg116KolpEag117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Fueling DevOps with Continuous Delivery",
+		"url": "http://blogs.ca.com/2016/09/22/fueling-devops-with-continuous-delivery/",
+		"domain": "blogs.ca.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ttE123qSbJVTJd7W1234A1nzvqX123PspfUk8Oc8i9xUUC7JXhvSObbSL123yeOcp1B2uGnDypOjhYYwRKrE9WvNbdNZEQ117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "A Getting Started Guide to Setting up Jenkins",
+		"url": "https://dzone.com/articles/a-getting-started-guide-to-setting-up-jenkins",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jD90ehoQRORhPryslPWiXaFFmRURGeLRPeNgUuWk1OYUXMw116KAynaA6t8XoniToOojfAjIeNe73EHpkc1VR1QA117117",
+		"item_date": "2016-09-12 12:15:03",
+		"title": "How to write powerful automated API tests with Postman Newman and Jenkins",
+		"url": "http://blog.getpostman.com/2015/09/03/how-to-write-powerful-automated-api-tests-with-postman-newman-and-jenkins/",
+		"domain": "blog.getpostman.com",
+		"image": ""
+	},
+	{
+		"curated_id": "edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Learn API DevOps from the Experts  Design Testing Deployment",
+		"url": "http://restlet.com/blog/2016/09/15/sept-api-meetup/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "g3UKegaZzaFvXHOJ2tr17Kj8IrSvEZF0pJPIiuSZdyJbVgBJ9sClPLacB116W0S4Z116nKApPTfiriazFrDBZ1aFAw117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "Rewrite Rewind APIs  DevOps  Better Storage Options for Devs",
+		"url": "http://www.ca.com/us/rewrite/articles/api-management/rewrite-rewind-apis-devops-better-storage-options-for-devs.html",
+		"domain": "www.ca.com",
+		"image": ""
+	},
+	{
+		"curated_id": "84f70d5Kg123CdI6noc123FqWwOfwwu6wJzOFV3kDa9dvJr769XE123fBWFS7tA5a0X3Gh9LMH7pJMNQtr7jj1fW6n7g117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Standardizing Cron With Puppet",
+		"url": "https://dzone.com/articles/standardizing-cron",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e0omNeXLlsrjY2TxmlqH51wMg1Z1167Ohgnfs6nJ4L0HutwW6QxCD97MlSkV77m5i116oofir4J1Dt52FiKnavpNYg117117",
+		"item_date": "2016-09-14 11:04:23",
+		"title": "Is DevOps changing storage from simple to API",
+		"url": "http://www.computerworld.com/article/3119344/data-center/is-devops-changing-storage-from-simple-to-api.html",
+		"domain": "www.computerworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mURTBn3qs6E495DVIvsejyqluF8I1232123WCdzfZHWEgoGALbdJ5cJWCOP6116Q3UCGXMF9fbbG116YVUBay3c1P1obgg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Running a JMeter Test Via Jenkins Pipeline",
+		"url": "https://dzone.com/articles/running-a-jmeter-test-via-jenkins-pipeline",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MPJy9HQBoiLlvZc116kNR4bQa4ZUqBTF31KVwUZkgdB1116USZesqk116V9tS1FbN123GEuuFgdJFsHcxPAAPPoz4IBXAg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Devops is Coming Are You Ready",
+		"url": "https://dzone.com/articles/devops-is-coming-are-you-ready",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tg6WkxbPBV5SLdxS2hNFOernKrPucYcdAQJLeueOHHXE9F8FUQszPSTU7T123jk3ni2S116Ds7WCoXK123K1EV6IdgOg117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "Automating with Puppet Cron jobs and scheduled tasks",
+		"url": "https://puppet.com/blog/automating-puppet-cron-jobs-and-scheduled-tasks",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VAb1vDv9NUfWQ1VBLYW6yuGPUQNCTM2juO6jZXrTNyk2HT6NNCsy7n5f0wBwkYe0ym123SMLP116XggT6JYEz9aHwg117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "How to Validate That Your DevOps Process Is Working",
+		"url": "https://www.getzephyr.com/insights/how-validate-your-devops-process-working",
+		"domain": "www.getzephyr.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116k1cJgL2kGnzYEeQ27JqlE14e3LBjHH7WlJUoA1234UDN3YbI1PBJdKKbaDw4neqmXhWGZjz116xyZywFTHDMbmkmg117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Reasons for the Rise of DevOps",
+		"url": "https://dzone.com/articles/rise-of-dev-ops-reasons",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7zVz7CJF9zo2USnHS1YEMocpd8t3QoAWkrCuVg116LkU5GQHa8g2DOwoSKVkBjQRPuLhSq116Yk5KMLWYT123EfTYoxQ117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Is DevOps a cold dead fish",
+		"url": "http://blogs.ca.com/2016/09/08/devops-cold-dead-fish/",
+		"domain": "blogs.ca.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cYUvp11683b3aPdY123CsiQOsChT7hH83hW05116dQFHH9RqTlmg1N1162t116TghgxyNQ0eu116zNyjTXRcuCa5ZGZwOSWndw117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "ITOps in the Modern Ops World",
+		"url": "https://dzone.com/articles/itops-in-the-modern-ops-world",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "EWFINr5wqdCBBjk0ofhNzEO9zuGdgqV123ChFkagOjD0760IhGq4ldc8cmmkmUY9nTWo487UhTORGQLxth5xMNsg117117",
 		"item_date": "2016-09-02 00:00:00",
 		"title": "Audit Trail Dashboard with CloudBees Jenkins Analytics",
-		"url": "https://dzone.com/articles/audit-trail-dashboard-with-cloudbees-jenkins-analy-1?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
-		"domain": "dzone.com",
+		"url": "https://www.cloudbees.com/blog/audit-trail-dashboard-cloudbees-jenkins-analytics",
+		"domain": "www.cloudbees.com",
 		"image": ""
 	},
 	{
