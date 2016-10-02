@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "jghKq116Owxp8123LkhnUgHhXIl9pnGRxEAr7A0rkSUvzi1t116ZFE4Hvw45UHTYRb9362KUI9FEMJBYEdayxdc8hggA117117",
+		"item_date": "2016-10-01 00:00:00",
+		"title": "Deploying IIS and ASPNET With Puppet",
+		"url": "https://dzone.com/articles/deploying-iis-and-aspnet-with-puppet?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "yd48cGX7fNiiBaT116FGflXYMDyDzZ8xuUSFTSgkRQzMiWIH2MtUUztG9ogSrvzV4C5NrIGLySueH33LJFLGRiLg117117",
 		"item_date": "2016-09-23 00:00:00",
 		"title": "Orchestrating Docker Swarm With Cloudify",
