@@ -1,10 +1,42 @@
 [
 	{
+		"curated_id": "8ArTHJiT1T8T8Yy3r116LOF0yxNOzssLtNP4xGMCJ8V5lf116tiSEXhWeT5s5jTCeW1byJ1161161eFaVQdEpN9b2ELUqA117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Alert Aggregation How to Keep Heads from Exploding",
+		"url": "https://victorops.com/blog/alert-aggregation-keep-peoples-heads-exploding/",
+		"domain": "victorops.com",
+		"image": ""
+	},
+	{
 		"curated_id": "jghKq116Owxp8123LkhnUgHhXIl9pnGRxEAr7A0rkSUvzi1t116ZFE4Hvw45UHTYRb9362KUI9FEMJBYEdayxdc8hggA117117",
 		"item_date": "2016-10-01 00:00:00",
 		"title": "Deploying IIS and ASPNET With Puppet",
-		"url": "https://dzone.com/articles/deploying-iis-and-aspnet-with-puppet?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/deploying-iis-and-aspnet-with-puppet",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8mam4UOjN8Tk2bX5fqNIOr116snfRlyWBg8OLmzadK9wwpaR123PGOJMPPtvzhGqCpVX4I91236kSet7XsnE4uzHOzdA117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Probing for Limits of Jenkins",
+		"url": "https://dzone.com/articles/probing-for-limits-of-jenkins",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tnWBGTUZPXzb4GX2BhMcdeqSBJLZ116sRXE6gBXe7tAUtn04oC5Ym16ElqGxOuA04qYxc0pT2Aa0puatqIuqT123Zg117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "How to Start Working with the GitHub Plugin for Jenkins",
+		"url": "https://dzone.com/articles/how-to-start-working-with-the-github-plugin-for-je",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Uv8g123F1hFucGVggM123dK7mMuixkcGQjLv2lAANJNQATxJo123KoWiH2RKEzGtMXe12339yH4Z0116WTeYs2116UNssQx0yQ117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Restlet Adds API Test Automation to Help DevOps Teams Collaborate",
+		"url": "http://restlet.com/blog/2016/09/28/restlet-adds-api-test-automation-to-help-devops-teams-collaborate/",
+		"domain": "restlet.com",
 		"image": ""
 	},
 	{
