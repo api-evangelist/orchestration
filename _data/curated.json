@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "BYZ61LJfHUsg123wZuFo1VyZFjOBrKx8ibJxEpOYckjBolKt14Zsv6AzZICx3ziTYYhMELzShtaQAgfISj6659CQ117117",
+		"item_date": "2016-10-05 00:00:00",
+		"title": "Using LoopBack to Build APIs For APIs",
+		"url": "https://strongloop.com/strongblog/using-loopback-to-build-apis-for-apis/",
+		"domain": "strongloop.com",
+		"image": ""
+	},
+	{
 		"curated_id": "8ArTHJiT1T8T8Yy3r116LOF0yxNOzssLtNP4xGMCJ8V5lf116tiSEXhWeT5s5jTCeW1byJ1161161eFaVQdEpN9b2ELUqA117117",
 		"item_date": "2016-09-27 00:00:00",
 		"title": "Alert Aggregation How to Keep Heads from Exploding",
