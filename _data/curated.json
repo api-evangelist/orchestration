@@ -1,10 +1,26 @@
 [
 	{
+		"curated_id": "KmgrjDgtiGEOpjtZqEW4pL123fC9xF9vpU123123pEp116FYmbMgti9RkBiDLg4Pm2g22pE4K3N5zBmVK6123C3aYh116Bayzg117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Compose RabbitMQ now out of beta",
+		"url": "https://www.compose.com/articles/compose-rabbitmq-now-out-of-beta/",
+		"domain": "www.compose.com",
+		"image": ""
+	},
+	{
 		"curated_id": "BYZ61LJfHUsg123wZuFo1VyZFjOBrKx8ibJxEpOYckjBolKt14Zsv6AzZICx3ziTYYhMELzShtaQAgfISj6659CQ117117",
 		"item_date": "2016-10-05 00:00:00",
 		"title": "Using LoopBack to Build APIs For APIs",
 		"url": "https://strongloop.com/strongblog/using-loopback-to-build-apis-for-apis/",
 		"domain": "strongloop.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EmjM9Q0o2IsDGnl123ejEd8lR116GWXF123MUes2Vek4m8cJm6UzYMj9pC1168yE3e6qyGAlpQEpJsKxfSgjuzYtPvCG7g117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "DevOps Automation with NGINX and NGINXPlus",
+		"url": "https://www.nginx.com/blog/devops-automation-nginx-plus/",
+		"domain": "www.nginx.com",
 		"image": ""
 	},
 	{
