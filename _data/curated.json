@@ -3,8 +3,8 @@
 		"curated_id": "A0xKTtzVkyMR3tiX116LB123ErfYdrzuh7QbrcKzg8dn116jzpOKfXkQLnFpirxWfTovnOL3XEooGbTNH1234fuWFpHApA117117",
 		"item_date": "2016-11-03 00:00:00",
 		"title": "CodePipeline Update  Build Continuous Delivery Workflows for CloudFormation Stacks",
-		"url": "http://feedproxy.google.com/~r/AmazonWebServicesBlog/~3/GpNHbVCdCfM/",
-		"domain": "feedproxy.google.com",
+		"url": "https://aws.amazon.com/blogs/aws/codepipeline-update-build-continuous-delivery-workflows-for-cloudformation-stacks/",
+		"domain": "aws.amazon.com",
 		"image": ""
 	},
 	{
@@ -13,6 +13,14 @@
 		"title": "Scenarios  StopLight",
 		"url": "http://stoplight.io/platform/scenarios/",
 		"domain": "stoplight.io",
+		"image": ""
+	},
+	{
+		"curated_id": "qxwGPNcamGBirQk0NLV4iw2yQh1JFsLtVVxjeuvfz116AN2p9iMdClDJZibaXmVx91161UgB0haG8123ewV1239aStDpTA117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Integration Announcement VictorOps and VividCortex",
+		"url": "https://victorops.com/blog/integration-victorops-vividcortex/",
+		"domain": "victorops.com",
 		"image": ""
 	},
 	{
