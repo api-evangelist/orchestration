@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "TrIS1237MbAxRf116fd0Qdhgjl6V0YP9V116lsMfip116plgdk0krhqlXgqFnjmvxq0F5khW9dZEjx123JUdfDc0hemI116Eqw117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "Building Docker images with Puppet",
+		"url": "https://puppet.com/blog/building-docker-images-puppet",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tr3Po116bzyXfFJDKUFiKBOV8ec9fIUz0i7iCM1Ng4uTlMlak7AQwR7gS1FDKn116V9wf0nuEEF61BeylNiLGijKng117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "Turning Your App into Separate Containers for Better CICD",
+		"url": "https://blog.codeship.com/turning-your-app-into-separate-containers-for-better-cicd/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
 		"curated_id": "A0xKTtzVkyMR3tiX116LB123ErfYdrzuh7QbrcKzg8dn116jzpOKfXkQLnFpirxWfTovnOL3XEooGbTNH1234fuWFpHApA117117",
 		"item_date": "2016-11-03 00:00:00",
 		"title": "CodePipeline Update  Build Continuous Delivery Workflows for CloudFormation Stacks",
