@@ -114,7 +114,7 @@
 	{
 		"curated_id": "EmjM9Q0o2IsDGnl123ejEd8lR116GWXF123MUes2Vek4m8cJm6UzYMj9pC1168yE3e6qyGAlpQEpJsKxfSgjuzYtPvCG7g117117",
 		"item_date": "2016-10-03 00:00:00",
-		"title": "DevOps Automation with NGINX and NGINXPlus",
+		"title": "",
 		"url": "https://www.nginx.com/blog/devops-automation-nginx-plus/",
 		"domain": "www.nginx.com",
 		"image": ""
@@ -466,7 +466,7 @@
 	{
 		"curated_id": "RnQSmCbJc6n40ehCsBE116cko2MG3a7Vf11JL8OLe1123h8ClBb1eXSaMFR00OgIZbXYfKbizCPLngF1HUg7jPN6oQ117117",
 		"item_date": "2016-08-02 00:00:00",
-		"title": "Installing NGINX and NGINXPlus with Puppet",
+		"title": "",
 		"url": "https://www.nginx.com/blog/installing-nginx-and-nginxplus-with-puppet/",
 		"domain": "www.nginx.com",
 		"image": ""
