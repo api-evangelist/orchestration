@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "v7rDlNLt9Q0X116Sjx5ZJUkr2WHJclqhqG5ge0s84S4DOpCuOr0fsEz9yCfW123HubgSHJIXS116xShLnxCfNrvce3Cw117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Test Automation Best Practices",
+		"url": "https://dzone.com/articles/test-automation-best-practices",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "3wBLM9LsrJqHYVUlo1nbUsZEsrNrHb6BkrTmjg9iRL1NLiPupR9sQ0IGdG116YpKnKMXipvjN8hNqLxyOqK14PJg117117",
 		"item_date": "2016-12-13 00:00:00",
 		"title": "Sanity Checking Your Feature Branches With a Personal CI Server",
