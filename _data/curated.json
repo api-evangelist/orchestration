@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "L76ISBcYmYZK5bE0YBanL81weFhWY3C0RZs48yFLLzuC2yI92rJLPbBmd9JmGaQccrkG123PwvGgsY5oYbaSLPuA117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "How we can bring automation to life",
+		"url": "http://360.here.com/2017/01/05/how-we-can-bring-automation-to-life/",
+		"domain": "360.here.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WNfWR2cj8gev0xKlTskodwZjetBWjaYI8116BnqkD123Q5XJE116cVyvS2OQMnr116wvgVRsJB3sp7iEtX123glM8J116Gp9zg117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "5 Keys to API DevOps Success at Zalando APIFirst in the Real World",
+		"url": "http://restlet.com/blog/2017/01/04/5-keys-to-api-devops-success-at-zalando-api-first-in-the-real-world/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xSUqKR3CMeFgH0S1PFuzNNvxpDTP1ynJV53C5DS3PhsqMAJz7Rz7XSsIuHw6clBKGx0jQ4u3rf7i7uZBslc6VA117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "GitHub API Profile Automate Your GitHub Workflow",
+		"url": "http://blog.rapidapi.com/2017/01/05/github-api-profile-automate-your-github-workflow/",
+		"domain": "blog.rapidapi.com",
+		"image": ""
+	},
+	{
+		"curated_id": "azWRhxKLinm6RXX1235mQi123jjjMPubOFb581X7rl1uXzaZ4rs3uaOpX6bRyNd4Np4123QHV116AzkpdOct1PZdQdWUkg117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "Harnessing the Integration Spectrum",
+		"url": "http://www.tibco.com/blog/2017/01/05/harnessing-the-integration-spectrum/",
+		"domain": "www.tibco.com",
+		"image": ""
+	},
+	{
 		"curated_id": "3SZyBiFC30B11644euo2HIgDgwt6123jyBke1mt8V7BWMPJ7ARxpKJ9WoVeOLgVjvo4NidmKXH12351IdEX1u49VVSiA117117",
 		"item_date": "2016-12-26 00:00:00",
 		"title": "Scheduling Regular Travis CI Builds With Cron Jobs",
