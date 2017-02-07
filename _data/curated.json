@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "H5XtSfxIA5Q7pIBfMHef4edMNtb7UNXSj5Z5r5ceMtT3sSKq1jhUU86PsyjuumEar6D72xgT0HAQPQENoRvjIA117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "ITIL and DevOps Differences  Frameworks Working Together",
+		"url": "http://www.bmc.com/blogs/itil-and-devops-lets-not-paper-over-the-differences/",
+		"domain": "www.bmc.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2CpsQPA9123JeZu0cTcO2YuFfWkVhmgvfZ9EgmMudMlHhh7cMiwFUdju2Zg2N9oOK116MnPlOT1s8Gnh4sbgXMA1231w117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Writing a cron job microservice with Serverless and AWS Lambda",
+		"url": "https://blog.readme.io/writing-a-cron-job-microservice-with-serverless-and-aws-lambda/",
+		"domain": "blog.readme.io",
+		"image": ""
+	},
+	{
 		"curated_id": "r66re93uvTKLfxWMF4FoFOpckvp506WQ0DRh4qsVsmYln2WO7QuBAJTK83ZcGwWcBC3xVd1WvefuFLR116i5u6qg117117",
 		"item_date": "2017-01-17 00:00:00",
 		"title": "Incorporating the Database Into the DevOps Tool Chain",
