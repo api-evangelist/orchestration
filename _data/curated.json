@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "rKbFcIhG6Ti96jsQxDwgjahoer6ilZ1UtQo2G1166Z0ro8knuwpzPn1Oh75lggp1RT6xY1235gUl89BJquSiCoJEdg117117",
+		"item_date": "2017-02-10 11:00:55",
+		"title": "CloudFormation templates make it easy to provision StepFunctions state machines amp coordinate microservices httpstco5ixk3mfET5",
+		"url": "https://aws.amazon.com/about-aws/whats-new/2017/02/aws-cloudformation-adds-support-for-aws-step-functions/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EEqVt8viiQ3voTs0tSwiOuVOzzrvNJYZKrw20123irm2F1C116tAoI116AGwvBzVbdAWExGl7JL1Dza7AdhV1xSE6zZw117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Introducing HubCommander",
+		"url": "http://techblog.netflix.com/2017/02/introducing-hubcommander.html",
+		"domain": "techblog.netflix.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qxdeo3TzGqMSGZIi2UmbYKUH38qkexKY3mpKTIqG9qstL8T70fFNj1LGb2mm8L1XNrvWvBSFPWudFn45IFUvPw117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Migrating From Jenkins To Codeship Testing",
+		"url": "https://blog.codeship.com/migrating-from-jenkins-to-codeship-testing/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hkWu9twZJ6hoyOwhO12364fuJE8FCus28pgGb116RH7eaGosL04mH57Bv7tCv2b1bN91166123UTkB11dg6IZKsWQ116uKpg117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Docker A Favourite in the DevOps World",
+		"url": "http://opensourceforu.com/2017/02/docker-favourite-devops-world/",
+		"domain": "opensourceforu.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KipMDAvv6G7VaRScv6M7vuxg116RxXGDm8pnI8BSWBlaj1YyOEzfVdXH0L7TQ43MkMg1ilRBby6JOtb123c1aZxSAQ117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "DevOps and Legacy Systems",
+		"url": "https://dzone.com/articles/devops-and-legacy-systems",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GfM8lxmPGjMnpEzA1YKZJRZ1KHqYlhH7SkHKDxHZcHBCiR116mwFmz3Ct1162eb7bUevFUfebucPv6fDMLZjxv1169cA117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Stoplight Launches Scenarios API Testing and Debugging Tool",
+		"url": "https://www.programmableweb.com/news/stoplight-launches-scenarios-api-testing-and-debugging-tool/brief/2017/02/07",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XcIn116zcSI1VS7QtnrGxMtKEgvH9ocF116OxBcZ7olp3r8s5Y5Df1Y1zxWYFTubePAyYxnr2f74DfDu4iNoAxD44Q117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Migrating from Snap CI to Codeship",
+		"url": "https://blog.codeship.com/migrating-snap-ci-codeship/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pxqhAOLx7123yooaGXd123nJWh1JqCPd4CqAbPFsiGWnwJ6HYHIJkWpzxYQ0e9jDoyEfEq116HGLamJYxefgTVtMjXjw117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Migrating from Jenkins to Codeship Organizations",
+		"url": "https://blog.codeship.com/migrating-from-jenkins-to-codeship-organizations/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
 		"curated_id": "H5XtSfxIA5Q7pIBfMHef4edMNtb7UNXSj5Z5r5ceMtT3sSKq1jhUU86PsyjuumEar6D72xgT0HAQPQENoRvjIA117117",
 		"item_date": "2017-01-30 00:00:00",
 		"title": "ITIL and DevOps Differences  Frameworks Working Together",
