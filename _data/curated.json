@@ -8,6 +8,38 @@
 		"image": ""
 	},
 	{
+		"curated_id": "MWTvEzs3MKsntT1Gnzlw8Czwvtwgv3SQBjzlwqt7wcGbHVlVA0e2wcjQksPYmdldDAmH4sj123DqAzl6CG5cQoEQ117117",
+		"item_date": "2017-02-21 00:00:00",
+		"title": "Migrating From Jenkins To Codeship Notifications",
+		"url": "https://blog.codeship.com/migrating-jenkins-codeship-notifications/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
+		"curated_id": "B6wrsaUuA3FkG0SBwBVA80MPPW2yrmKfOv1166AVdTAf7KlETdhvTTVKeaN06ZdiLIi5OJMSAw1L9123saFaQPXdtA117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Continuous Integration  a tool developers expect",
+		"url": "https://about.gitlab.com/2017/02/22/ci-integral-to-everyday-work/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "G2UMAYSSJUWM1thDerFCpxya7Hrv1ujGNw6U2YDCSPuU5IqUbNidoq8a1236aQUlG8l3zBng6wvzt2fhDxpW7Miw117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Achieving CI and CD With Kubernetes",
+		"url": "https://dzone.com/articles/achieving-cicd-with-kubernetes",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iXQuUpDnw6D3RXNh9qCxT116zAQImyRd2l3g3cv4jh1ucunfR0Wu4DRxL2umHmFGpACVYZ266PTBWjzsv1vmF4kw117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Docker in Continuous Integration Part I",
+		"url": "https://dzone.com/articles/docker-in-continuous-integration-part-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "KQX123X0XLD5ZMuNsOAqgMNEpSIJzDKOyyoXUyax3gjxNq97dneKBMRKyrYdCXKPYTC5KBFCk78PG8421239T0NOYQ117117",
 		"item_date": "2017-02-16 00:00:00",
 		"title": "Guest post MultiCloud continuous delivery using Spinnaker at Waze",
