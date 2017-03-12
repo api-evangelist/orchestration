@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "fvC2cm7BjKzWAeDKg123e6C123Xfy3X1ZPpVnRw8khE8bnsdftUV1o2S1VtvFsxBjkV3KepUD5sOGgJwQ2eX0gwoJA117117",
+		"item_date": "2017-03-07 00:00:00",
+		"title": "Security considerations in a DevOps pipeline",
+		"url": "https://blog.cloudpassage.com/2017/03/07/security-in-a-devops-pipeline/",
+		"domain": "blog.cloudpassage.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hgueoc5HLeHzZFFFgXM6N116e7PmrpwXVLph4npYhNcDynQ116Hy9gd8SmBcdd9p96J123e1SpM2123N123WKIsnDEV2hd0w117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "3 Tips for Introducing Continuous Workflows to Your Development Process",
+		"url": "https://about.gitlab.com/2017/03/06/introduce-continuous-workflows/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YCvCT123AwsvrDydAvAQgpGwCv0LIEi116drAE99CJdA88b5J123Xqcu56AyRD4nUjeJTm7123dSyYUsgBsIUI123R1233b116Ww117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "CRN Exclusive Puppet Channel Chief On PartnerCentric Transformation And DevOps Opportunities For The Channel",
+		"url": "http://www.crn.com/slide-shows/applications-os/300084057/crn-exclusive-puppet-channel-chief-on-partner-centric-transformation-and-devops-opportunities-for-the-channel.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
 		"curated_id": "HKejzPjjeOWyr10eJ7MgNGZhFl6z9Z3ZQpbWmA8R7116yvswQn9dXOPsZFZ123YZouNBiiPSGqMOxCQboCO02JlN4Q117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "Success Story of Monitis and VictorOps Integration",
