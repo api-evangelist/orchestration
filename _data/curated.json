@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "0blC38lyHlMbRQiggI6c7ymVcMTJdy8116N1GG5BrAA116SlCyqmof91166wQyfl7mxr9Dxyb3mA3qydD6YUgv2JPW3Q117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Demo  CICD with GitLab in action",
+		"url": "https://about.gitlab.com/2017/03/13/ci-cd-demo/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bO9ciy9UGNH123gYphpTWflLSheOjg6LoabZwAOpp9FWPd4UUBRGfsrBr5vVRgV15oIBDEY3Uzwdhg1HUn123aWM5A117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Building the IIoT With DevOps",
+		"url": "http://blog.opto22.com/optoblog/building-the-iiot-with-devops",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PdG5czxlCbayIQA6OK9XgStaTA9b1233PXfrd7HHcs0123RVJaQKyvhApZ7CbB8OhUhNlsI1168V5bGdmCayu11qbwTw117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "Streamline AMI Maintenance and Patching Using Amazon EC2 Systems Manager",
+		"url": "https://aws.amazon.com/blogs/aws/streamline-ami-maintenance-and-patching-using-amazon-ec2-systems-manager-automation/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ezTc1kUEG116OPsjkh3L7Fc2k93Omx1LDCgdCyGs68ZpdCm7fnkXwpcgfzwLEi3iYYrawD3WxMPMqbf94zfX3gWw117117",
+		"item_date": "2017-03-17 00:00:00",
+		"title": "U mad bro Disaster planning for oncall",
+		"url": "https://victorops.com/blog/u-mad-bro-disaster-planning/",
+		"domain": "victorops.com",
+		"image": ""
+	},
+	{
 		"curated_id": "fvC2cm7BjKzWAeDKg123e6C123Xfy3X1ZPpVnRw8khE8bnsdftUV1o2S1VtvFsxBjkV3KepUD5sOGgJwQ2eX0gwoJA117117",
 		"item_date": "2017-03-07 00:00:00",
 		"title": "Security considerations in a DevOps pipeline",
