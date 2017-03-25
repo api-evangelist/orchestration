@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "NOq8o6SJn9sCrvP123GjbFHXntVHgIe0L24pEfksg123sOF116flN1Oyp9tcDtzZSO1dihd2TOJG73yfVzfgTFp9REkQ117117",
+		"item_date": "2017-03-23 00:00:00",
+		"title": "Preparing for Continuous Delivery",
+		"url": "https://dzone.com/refcardz/preparing-continuous-delivery",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iAh0lh9k2hNjVSqbfqDEygw2dOHX3jrHZLKyP3m05K4Y5mS2wv54QoMnyzvR84OTjsJZs3VoVTMNWneGgT2Fkg117117",
+		"item_date": "2017-03-22 00:00:00",
+		"title": "DevSecOps Embracing Automation While Letting Go of Tradition",
+		"url": "https://dzone.com/articles/devsecops-embracing-automation-while-letting-go-of",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "D8pkJNc6Tw1ONf7UhXZBXuUd123Dkc4N1ek5kH8fRTcQKCONqzev1G123kvjP6SlvwFz123Mh116UMzMHacpD4tN123xUjDA117117",
+		"item_date": "2017-03-22 00:00:00",
+		"title": "Microservices With Continuous Delivery Using Docker and Jenkins",
+		"url": "https://dzone.com/articles/microservices-continuous-delivery-with-docker-and?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZcTrsVyDFq9ICo01feEb8oruhD7pgtB123mWDSQiaXAeOVINSIqEwoLxbDKgSOZtsJwtbDcdzbSIfgeYeiD116p4AA117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "Bitbucket Adds Pipelines",
+		"url": "https://dzone.com/articles/bitbucket-adds-pipelines",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "0blC38lyHlMbRQiggI6c7ymVcMTJdy8116N1GG5BrAA116SlCyqmof91166wQyfl7mxr9Dxyb3mA3qydD6YUgv2JPW3Q117117",
 		"item_date": "2017-03-14 00:00:00",
 		"title": "Demo  CICD with GitLab in action",
@@ -1518,6 +1550,22 @@
 		"url": "http://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/",
 		"domain": "blog.docker.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-docker-com201506announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates.png"
+	},
+	{
+		"curated_id": "1rJvkiBf123uxlpLwU8eON7DNct4la2b1166TCamaKUG2DlXuFLzDCgNneYBsDHmFzfcot1163V4pXTY5iBq3W1X3SLg117117",
+		"item_date": "2015-06-11 00:00:00",
+		"title": "DocuSign API Prebuilt Integration Now Available",
+		"url": "http://cloud-elements.com/docusign-api-prebuilt-integration-now-available/",
+		"domain": "cloud-elements.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comdocusign-api-prebuilt-integration-now-available.png"
+	},
+	{
+		"curated_id": "EwUzLwfBujXV3Yvg116TXauFopqeOYkr4LjCiRXBDnqxe29C4QI0123WUt0S4V4IOOWt4qHXIW3N116x0w1KTYMcsCnA117117",
+		"item_date": "2015-06-11 00:00:00",
+		"title": "Cloud Elements Announces API for Data Mapping and Transformation",
+		"url": "http://www.programmableweb.com/news/cloud-elements-announces-api-data-mapping-and-transformation/2015/06/11",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewscloud-elements-announces-api-data-mapping-and-transformation20150611.png"
 	},
 	{
 		"curated_id": "2xzMWcuibnd2rNckinGsfK116Pd3UphKWbEtXTTYhkfiHlrCDYkL06lcqGWHsqB34H0Lws5WDL0gVF1MWIULPSbQ117117",
