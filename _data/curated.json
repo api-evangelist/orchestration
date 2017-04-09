@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "UN2ZHF4X123gkbOER12359Pw0IK0nvRiJ0TDvdQLdnqaqARjP9mWpljCoyCi3216U116IaIWNXnJq4TR0BzeOR6pRgMg117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "Managing Datadog with Terraform",
+		"url": "https://www.datadoghq.com/blog/managing-datadog-with-terraform/",
+		"domain": "www.datadoghq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hJD9gU1aiCb123y7Sb4lO1CZCKDRncpcTaTLWMJNIB6LMc57UxAh0MgUk2UsgQPNwjxuKv4dkwZ2henKz8C2OQGA117117",
+		"item_date": "2017-04-03 00:00:00",
+		"title": "Continuous Delivery Tools Adds GitHub Support and My Build Notifications",
+		"url": "https://blogs.msdn.microsoft.com/visualstudio/2017/04/03/continuous-delivery-tools-adds-github-support-and-my-build-notifications/",
+		"domain": "blogs.msdn.microsoft.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kivnckL1167fJTGPLlkb7NbPE4r6WEVw116acgUrgK5jcBe39unApye5LplsG123WzK123GqBkmwa116rBYaS8B116pl116GJzlQ117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Application Lifecycle Management ALM Software Market Analysis",
+		"url": "http://www.openpr.com/news/491549/Application-Lifecycle-Management-ALM-Software-Market-Analysis-Shares-And-Index-Worldwide-2006-to-Current-Quarterly.html",
+		"domain": "www.openpr.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Tpqm27QV7a4bLfGmPGynfZT2Oq8KQvtpUNW1uDuo4GUcLFnaELjPQV65116fUKieqmb116ox116jKn9QLbSbVgZo116OKQ117117",
+		"item_date": "2017-04-03 10:00:25",
+		"title": "Seegrid Expands Supervisor API to Provide Interoperability Across Automation Systems",
+		"url": "http://finance.yahoo.com/news/seegrid-expands-supervisor-api-interoperability-130000736.html",
+		"domain": "finance.yahoo.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wZCUjHi1StxZWvaYy7ufZlH79oWENfTifJxJ3KnBInCv116XSU3f4AhLWOffGizw3TII5jIdqxgoBF5O1pP4cCGA117117",
+		"item_date": "2017-04-03 00:00:00",
+		"title": "The Anatomy of a Release Pipeline",
+		"url": "https://dzone.com/articles/the-anatomy-of-a-release-pipeline",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "NOq8o6SJn9sCrvP123GjbFHXntVHgIe0L24pEfksg123sOF116flN1Oyp9tcDtzZSO1dihd2TOJG73yfVzfgTFp9REkQ117117",
 		"item_date": "2017-03-23 00:00:00",
 		"title": "Preparing for Continuous Delivery",
