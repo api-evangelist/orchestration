@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "LraVKmHby5NMdTaA6Z3aQ123AQxVavzm2X5G1ioCKqUmhp3123rjEjen1GaXWpbxpAZY2W5uHk7W0d123wdSKhf8g1aw117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "Automating project creation with Google Cloud Deployment Manager",
+		"url": "https://cloudplatform.googleblog.com/2017/04/automating-project-creation-with-Google-Cloud-Deployment-Manager.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "UN2ZHF4X123gkbOER12359Pw0IK0nvRiJ0TDvdQLdnqaqARjP9mWpljCoyCi3216U116IaIWNXnJq4TR0BzeOR6pRgMg117117",
 		"item_date": "2017-04-07 00:00:00",
 		"title": "Managing Datadog with Terraform",
