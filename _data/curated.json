@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "CKWwg3LZKMLL75id7jboTu1237t65AKnWaHQ0gVJi116mavteeoY32TJBRhjRDrxLT6ZU116WSpDGLRcFMv0XA8olMRg117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Continuous Delivery to Microsoft Azure with Docker",
+		"url": "https://blog.codeship.com/continuous-delivery-to-microsoft-azure-with-docker/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
 		"curated_id": "LraVKmHby5NMdTaA6Z3aQ123AQxVavzm2X5G1ioCKqUmhp3123rjEjen1GaXWpbxpAZY2W5uHk7W0d123wdSKhf8g1aw117117",
 		"item_date": "2017-04-13 00:00:00",
 		"title": "Automating project creation with Google Cloud Deployment Manager",
