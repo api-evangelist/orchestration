@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "123H38Djdvzobrdiy4fLlftNpErqq0jW6123iDbdcb123CWl116zsEpOUB116t9zKhrJzkfYLzzV123vtXQx8yYcaf4KsTFpYQ117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "ChatOps and DevOps Best Practices",
+		"url": "https://dzone.com/articles/chatops-and-devops-best-practices",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "CKWwg3LZKMLL75id7jboTu1237t65AKnWaHQ0gVJi116mavteeoY32TJBRhjRDrxLT6ZU116WSpDGLRcFMv0XA8olMRg117117",
 		"item_date": "2017-04-19 00:00:00",
 		"title": "Continuous Delivery to Microsoft Azure with Docker",
