@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "eLDz5GDYskFwtyEyNayfb123d9J83Or8JheiN7V123BHjnbWSaiYVOsw5aKchPmo9bh7p2sSZ7CyAeftWJpfPhOeaA117117",
+		"item_date": "2017-04-27 11:53:09",
+		"title": "Tweet Tutorial Continuous Integration with Codeship and Runscope API Tests httpstco5jvfcdq6C5",
+		"url": "https://twitter.com/APIdaysGlobal/statuses/857668959079976960",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UvsjOUK2lx0IUlsxmCS8kDAZ2EpfqDY5fDz1LWLwveMWHTnjxMFooNbxVXNUq9Xc116IAn1231uXIo9x8v8FZSIsXg117117",
+		"item_date": "2017-04-27 10:15:48",
+		"title": "Execute Postman Collections in your continuous integration pipeline with VSTS and Newman",
+		"url": "http://blog.jongallant.com/2017/04/postman-newman-vsts-continuous-integration/",
+		"domain": "blog.jongallant.com",
+		"image": ""
+	},
+	{
+		"curated_id": "STD116jEhVqQ116wBIfp9uvophO4HfWljaebuDXeL8PACgIWqxALBQ4p2Vna7UjfkT123HVlNFzGj4MjZQLn9KZTqcKw117117",
+		"item_date": "2017-04-24 00:00:00",
+		"title": "Running Puppet software in Docker containers",
+		"url": "https://puppet.com/blog/running-puppet-software-docker-containers",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Nt6N123eGiMvsr9InIwX116N993RRdvv4USpQxWZXsZHuDilq9CVvGm8RQxmyoUVfyT3sik0ZMgo3SaJMbBN6UbiZQ117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Introducing Formatter In Builtio Flow Express",
+		"url": "https://www.built.io/blog/introducing-formatter-in-builtio-flow-express",
+		"domain": "www.built.io",
+		"image": ""
+	},
+	{
+		"curated_id": "lkWeL6DKw08v123wcPtAOAIgngPIxPKE6F123GAtm3YQc29IvlOqmg6I7T7vk1PHGTDG9GVlNxvVCi1167EVwE5Y3cxQ117117",
+		"item_date": "2017-04-25 00:00:00",
+		"title": "Deploy Code to Containers From Git Automatically",
+		"url": "https://dzone.com/articles/deploy-code-to-containers-from-git-automatically-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "123H38Djdvzobrdiy4fLlftNpErqq0jW6123iDbdcb123CWl116zsEpOUB116t9zKhrJzkfYLzzV123vtXQx8yYcaf4KsTFpYQ117117",
 		"item_date": "2017-04-18 00:00:00",
 		"title": "ChatOps and DevOps Best Practices",
