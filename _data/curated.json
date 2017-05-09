@@ -1,5 +1,61 @@
 [
 	{
+		"curated_id": "MuAeyQkdZR1AocMr0f50u7123tvmla5vLhWqSMU9OFspA7SeDcBzdO123fgJm6P9PVoQKmR7z2PyyBUyh9diy55ioA117117",
+		"item_date": "2017-05-03 15:07:00",
+		"title": "Serverless Takes DevOps to the Next Level",
+		"url": "https://www.infoq.com/articles/serverless-takes-devops-next-level",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YFU1cwuhWrPaFQGKPzITFsYPchNKYZ1iSiQrLBNCL8tFDeCc123goaHPlXe4116MPjhO4sw08NsR123HuvF2iOvAsVug117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "Take Control Of Your Workflow With Switch",
+		"url": "https://www.built.io/blog/take-control-of-your-workflow-with-switch",
+		"domain": "www.built.io",
+		"image": ""
+	},
+	{
+		"curated_id": "dbaXR9ze9BLmwf6BEA5bI67iFdCBWD116z1NMKnlTksg60ou116123NrqLX123u1x3116OSyPBfZtjZwOGcE116fiM116xpDRsMA117117",
+		"item_date": "2017-05-02 00:00:00",
+		"title": "Scoring Continuous Integration",
+		"url": "https://dzone.com/articles/scoring-continuous-integration",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "s4JWe2cd5xUOY1npijaYL2X0xK116xRgUIxRMpD8TPPpdyg6awCdwfy3K123PeGDXF1169tF1232nl25jzM2ljkeFvYhaw117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "Red Hat Offers New Tools For An Automated Enterprise",
+		"url": "http://www.crn.com/news/channel-programs/video/300084792/red-hat-offers-new-tools-for-an-automated-enterprise.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "a34Zv7d123r4ohzdVHeFuE116ovRrxkZpyBWCHOLWjXrcXH0wa116dRKlVGjPOkBAj9lz5123YYA9WlLoyAO0rWgkG6FRw117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "Create a Continuous Deployment Pipeline with Nodejs and Jenkins",
+		"url": "https://dzone.com/articles/create-a-continuous-deployment-pipeline-with-nodej",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YfVgs5116HDROoj5qkhXaMUWYLNW3GsfLx5BlAJItYkyMl97QVVWJrlQTo2opp1BXyDoz4fAWA4RUKu12AfWtUVA117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "Inside GitLabs Code Review Flow",
+		"url": "https://about.gitlab.com/2017/05/02/inside-gitlabs-code-review-flow/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pwOMyOnMV1237g8h1unvouCfECmP3PYnu2fqt49p6eA116ZarhfzAhy2azHtUlNl56PAAMvoDcQLMUoO35kGZ6EBuw117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "Implementing Continuous Delivery",
+		"url": "https://dzone.com/articles/implementing-continuous-delivery",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "eLDz5GDYskFwtyEyNayfb123d9J83Or8JheiN7V123BHjnbWSaiYVOsw5aKchPmo9bh7p2sSZ7CyAeftWJpfPhOeaA117117",
 		"item_date": "2017-04-27 11:53:09",
 		"title": "Tweet Tutorial Continuous Integration with Codeship and Runscope API Tests httpstco5jvfcdq6C5",
