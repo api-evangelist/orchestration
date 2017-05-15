@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "Y116Vdc2ahF05mLlo0m3O116116edJl7jYI38ii1ipC123v62rtnL0ptEu6IGruimjLSvgiWYPvFpNUpwhtZqVrRxPGRpg117117",
+		"item_date": "2017-05-08 00:00:00",
+		"title": "What to Look for in a Continuous Integration Tool",
+		"url": "https://about.gitlab.com/2017/05/08/what-to-look-for-in-ci-cd-solution/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fODT123sf4DoXQOVt3T4Kevjb123Hc0thQl9wqa116Eh1HSfWkgqcTEiDb2HlLL0PSG3m6116efO2BEqSALQFM8QFcrR6Q117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "The Importance Of IaaS To DevOps",
+		"url": "http://dyn.com/blog/the-importance-of-iaas-to-devops/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
 		"curated_id": "92KM7HA7h8jrJOIelauO1PixRLgmB1234MCmqYVkGvhmxC7TlLCCISHqdvUfClY6L8wENomKaSURdrNNjHN6DDcQ117117",
 		"item_date": "2017-05-11 00:00:00",
 		"title": "Performance Monitoring with an Incident Response Orchestration System",
