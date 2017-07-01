@@ -5,77 +5,1332 @@
   url: https://tune.com/blog/startups-need-api/
   domain: tune.com
   image: ""
-- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ca002590f:1f4d197:47752f80
-  item_date: "2017-06-12 13:35:56"
-  title: Scenarios v3.3 Update
-  url: https://medium.com/p/e2e7f7b39603
-  domain: medium.com
+- curated_id: 8ed88aa098ababf47d2e7b323d8eb3d0
+  item_date: "2015-04-29 00:00:00"
+  title: Microsoft previews template deployments in Azure Resource Manager
+  url: http://venturebeat.com/2015/04/29/microsoft-previews-vm-template-deployments-virtual-networks-in-azure-resource-manager/
+  domain: venturebeat.com
   image: ""
-- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15ca31a6473:40611e:897ecf93
-  item_date: "2017-06-13 13:16:11"
-  title: Atlassian Stacks up for DevOps
-  url: https://thenewstack.io/?p=2509292
-  domain: thenewstack.io
+- curated_id: e05a3f3b5e2285c2dcc8452d3c9738f6
+  item_date: "2015-06-06 00:00:00"
+  title: Google Create Kubernetes-based VM/Docker Image Building Framework
+  url: http://www.infoq.com/news/2015/06/gce-image-builder
+  domain: www.infoq.com
   image: ""
-- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ca54b6ab3:35bdad9:e55a4d93
-  item_date: "2017-06-13 23:04:06"
-  title: Using GoCD API
-  url: https://medium.com/p/ba0a415c88f8
-  domain: medium.com
+- curated_id: c4f20f740bae4070311962128f3f10df
+  item_date: "2015-06-09 00:00:00"
+  title: 'Getting Buy-In: How To Sell Puppet to Managers  Developers'
+  url: https://puppetlabs.com/blog/how-to-sell-puppet-to-managers-and-developers
+  domain: puppetlabs.com
   image: ""
-- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15ca6b40c2f:a62e27:897ecf93
-  item_date: "2017-06-14 06:00:07"
-  title: Yipee.io Helps Corral Containers for DevOps
-  url: https://thenewstack.io/?p=2431502
-  domain: thenewstack.io
+- curated_id: 62753c6328442b060ce5a8f03ef4d9a7
+  item_date: "2015-06-11 00:00:00"
+  title: DocuSign API Prebuilt Integration Now Available
+  url: http://cloud-elements.com/docusign-api-prebuilt-integration-now-available/
+  domain: cloud-elements.com
   image: ""
-- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_15ca730ca4b:f0f41:4825a421
-  item_date: "2017-06-14 08:15:30"
-  title: 'Post Mortem: Codeship Basic Platform Build Processing Incidents'
-  url: https://blog.codeship.com/?p=5152
-  domain: blog.codeship.com
+- curated_id: 4b27eefeb31065bb461bd73d825840bf
+  item_date: "2015-06-11 00:00:00"
+  title: Cloud Elements Announces API for Data Mapping and Transformation
+  url: http://www.programmableweb.com/news/cloud-elements-announces-api-data-mapping-and-transformation/2015/06/11
+  domain: www.programmableweb.com
   image: ""
-- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15cb079767c:341ac3:60392a0b
-  item_date: "2017-06-15 12:18:02"
-  title: Twitter
-  url: https://twitter.com/i/web/status/875432228997799937
+- curated_id: 3b0ac2c338b1db5fabcfaf9dbae1d300
+  item_date: "2015-06-22 00:00:00"
+  title: Announcing Compose 1.3, Swarm 0.3 and Machine 0.3
+  url: http://blog.docker.com/2015/06/compose-1-3-swarm-0-3-machine-0-3/
+  domain: blog.docker.com
+  image: ""
+- curated_id: ed0eec5f3601e9438553338d9ba31b51
+  item_date: "2015-06-22 00:00:00"
+  title: 'Announcing Docker 1.7: Multi-host networking, plugins and orchestration
+    updates'
+  url: http://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/
+  domain: blog.docker.com
+  image: ""
+- curated_id: 22c3824455063fd4d17d36550fcf8992
+  item_date: "2015-06-24 00:00:00"
+  title: Visualizations of Continuous Delivery
+  url: http://blog.loadimpact.com/continuous-delivery/visualizations-of-continuous-delivery/
+  domain: blog.loadimpact.com
+  image: ""
+- curated_id: 68c5471b906eb4a38debc834da733d88
+  item_date: "2015-06-25 00:00:00"
+  title: Continuous Integration and Delivery, Monitoring, and Metering with OpenShift
+    Enterprise 3 Partners
+  url: https://blog.openshift.com/continuous-integration-delivery-monitoring-metering-openshift-enterprise-3-partners/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: b6b2e27e707fa5cc9bde50279dd0b25e
+  item_date: "2015-06-25 00:00:00"
+  title: Puppet Enterprise Integrates with Red Hat Satellite
+  url: https://puppetlabs.com/blog/puppet-enterprise-integrates-red-hat-satellite
+  domain: puppetlabs.com
+  image: ""
+- curated_id: 62df06600331cb944efbcd260137c6fa
+  item_date: "2015-07-09 00:00:00"
+  title: Azure Batch Generally Available
+  url: https://azure.microsoft.com/blog/2015/07/09/azure-batch-generally-available/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 44235e5eeaa39935738a6b9010f24565
+  item_date: "2015-08-10 00:00:00"
+  title: Using App Service Web Apps continuous deployment with GitHub organizations
+  url: http://azure.microsoft.com/blog/2015/08/10/using-app-service-web-apps-continuous-deployment-with-github-organizations/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: fd31154af745e8f3eccac6cb2ca93240
+  item_date: "2015-11-06 00:00:00"
+  title: 'F5 Friday: DevOps Tools and F5'
+  url: http://lorimacvittie.sys-con.com/node/3543607
+  domain: lorimacvittie.sys-con.com
+  image: ""
+- curated_id: 1773fa8b08471945ac10eb381aa7bd04
+  item_date: "2015-12-18 00:00:00"
+  title: New Templates Make Building Segments and Workflows Even Easier
+  url: http://blog.bronto.com/product/new-templates-make-building-segments-and-workflows-even-easier/
+  domain: blog.bronto.com
+  image: ""
+- curated_id: 96ced7a059eea7e53c7ce045378bb9b6
+  item_date: "2015-12-23 00:00:00"
+  title: Automating APIs Is a Good Thing--Some of the Time
+  url: http://www.programmableweb.com/news/automating-apis-good-thing-some-time/analysis/2015/12/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 732502ef232cb48c7fba83bb401512b9
+  item_date: "2016-01-19 00:00:00"
+  title: Continuous Delivery and Release Automation for Microservices
+  url: https://dzone.com/articles/continuous-delivery-and-release-automation-for-mic
+  domain: dzone.com
+  image: ""
+- curated_id: 1df667f9ab222dfdf0e6b626dce77ae2
+  item_date: "2016-01-27 00:00:00"
+  title: Continuous Deployment With Heroku and Github
+  url: https://dzone.com/articles/continuous-deployment-with-heroku-and-github
+  domain: dzone.com
+  image: ""
+- curated_id: ee593e6680ef12f7f9de9649a05aaaa5
+  item_date: "2016-02-02 00:00:00"
+  title: Making life with Puppet and AWS (or other cloud services) easier
+  url: https://puppetlabs.com/blog/making-life-puppet-and-aws-or-other-cloud-services-easier
+  domain: puppetlabs.com
+  image: ""
+- curated_id: af15d201b64330cb1a47445f5f78f54d
+  item_date: "2016-02-03 00:00:00"
+  title: 'Weekly Top 10: DevOps and Microservices'
+  url: https://dzone.com/articles/weekly-top-10-devops-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: 92b8c652eb59caa8936660d4403b0920
+  item_date: "2016-02-04 00:00:00"
+  title: Orchestration is the Ultimate Order of (Deployment) Operations
+  url: http://lorimacvittie.sys-con.com/node/3666018
+  domain: lorimacvittie.sys-con.com
+  image: ""
+- curated_id: 6ae9e0fc0ac5f974758f8aee078a39aa
+  item_date: "2016-02-16 00:00:00"
+  title: Deploying NGINX with Ansible
+  url: https://blog.serverdensity.com/deploying-nginx-with-ansible/
+  domain: blog.serverdensity.com
+  image: ""
+- curated_id: ff4683e796a420bf88d7d9fe10872e50
+  item_date: "2016-02-16 00:00:00"
+  title: How to Build Your Flow Control With the Bandwidth API
+  url: http://www.programmableweb.com/news/how-to-build-your-flow-control-bandwidth-api/sponsored-content/2016/02/16
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 67161c3403d4891d7f5dcc816ab74c9e
+  item_date: "2016-02-17 00:00:00"
+  title: Notifications for AWS CodeDeploy Events
+  url: https://aws.amazon.com/blogs/aws/new-notifications-for-aws-codedeploy-events/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 7022f8f1fe4fddd49c71eccd5aab0c01
+  item_date: "2016-02-21 00:00:00"
+  title: Docker, Amazon EC2 and continuous builds using Jenkins
+  url: https://www.magnolia-cms.com/blogs/jan-haderka/detail~@docker--amazon-ec2-and-continuous-builds-using-jenkins~.html
+  domain: www.magnolia-cms.com
+  image: ""
+- curated_id: ee909eee4235a5516d84d6506ccd16fd
+  item_date: "2016-02-23 06:34:07"
+  title: Chef Launches Partner Cookbook Program to Expand DevOps-Ready Technology
+    Ecosystem
+  url: https://www.chef.io/blog/2016/02/23/chef-launches-partner-cookbook-program-to-expand-devops-ready-technology-ecosystem/
+  domain: www.chef.io
+  image: ""
+- curated_id: 04a5e7d9cd88da8b9bff1778cf017765
+  item_date: "2016-02-24 00:00:00"
+  title: Install Docker Universal Control Plane with Puppet
+  url: https://puppetlabs.com/blog/install-docker-universal-control-plane-puppet
+  domain: puppetlabs.com
+  image: ""
+- curated_id: 3dc269c942580bb45bdc871f3dfbf71f
+  item_date: "2016-03-01 00:00:00"
+  title: Top 8 Continuous Integration Tools
+  url: https://dzone.com/articles/top-8-continuous-integration-tools
+  domain: dzone.com
+  image: ""
+- curated_id: 7a7c66dc929dd89cbff5d3f4bd032468
+  item_date: "2016-03-07 00:00:00"
+  title: Engine Yard Unveils New Public API
+  url: http://www.programmableweb.com/news/engine-yard-unveils-new-public-api/brief/2016/03/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 33d5757632ea4665fcbceef53321b991
+  item_date: "2016-03-08 00:00:00"
+  title: Running Web API tests in your Continuous Integration pipeline
+  url: http://restlet.com/blog/2016/03/08/running-web-api-tests-in-your-continuous-integration-pipeline/
+  domain: restlet.com
+  image: ""
+- curated_id: 18e0952ce084bcdc8ff4082cde3265c0
+  item_date: "2016-03-08 00:00:00"
+  title: Why Automated Tests Are Important
+  url: https://dzone.com/articles/why-automated-tests-are-important
+  domain: dzone.com
+  image: ""
+- curated_id: c4134b961d6baa22babba5cdf6e613b8
+  item_date: "2016-03-10 00:00:00"
+  title: Is Continuous Localization Possible for Dev Teams?
+  url: https://www.transifex.com/blog/2016/continuous-localization-for-development-teams/
+  domain: www.transifex.com
+  image: ""
+- curated_id: 8133ebae69b01a7db535881791d7bf09
+  item_date: "2016-03-14 00:00:00"
+  title: Automating Like a Human
+  url: https://pinkflamingo.helpscout.net/blog/support-automation/
+  domain: pinkflamingo.helpscout.net
+  image: ""
+- curated_id: fb2400ede656f61f6934fad3f18ba6a2
+  item_date: "2016-03-22 00:00:00"
+  title: Conditional Workflows in Postman
+  url: http://blog.getpostman.com/2016/03/23/conditional-workflows-in-postman/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: a6348174a9bd582a022761e892b2b51a
+  item_date: "2016-03-22 00:00:00"
+  title: Kubernetes Template and Walkthrough on Skytap
+  url: https://dzone.com/articles/kubernetes-template-and-walkthrough-on-skytap
+  domain: dzone.com
+  image: ""
+- curated_id: 1176bf76ad08d6d869533cde7961703f
+  item_date: "2016-03-23 00:00:00"
+  title: Devops Certifications Will Damage Devops
+  url: https://dzone.com/articles/devops-certification-part-2
+  domain: dzone.com
+  image: ""
+- curated_id: 695b50705adb98499e0c49e1007cca9f
+  item_date: "2016-03-23 00:00:00"
+  title: Why Most Companies Are Getting Continuous Delivery Wrong
+  url: https://dzone.com/articles/why-most-companies-are-getting-continuous-delivery
+  domain: dzone.com
+  image: ""
+- curated_id: 93bec0aef372ac199b1ceee703ad8afb
+  item_date: "2016-03-24 00:00:00"
+  title: Is DevOps Bad for Security?
+  url: https://dzone.com/articles/is-devops-bad-for-security
+  domain: dzone.com
+  image: ""
+- curated_id: 0a2072772e3207a9266fd78be12c769d
+  item_date: "2016-03-24 00:00:00"
+  title: Using Puppet with Mesos
+  url: https://puppetlabs.com/blog/using-puppet-with-mesos
+  domain: puppetlabs.com
+  image: ""
+- curated_id: fbd6b59f8d7c135060a6ed0e8ce62b80
+  item_date: "2016-03-28 00:00:00"
+  title: Deploying NGINX Plus for High Availability with Chef
+  url: https://www.nginx.com/blog/nginx-plus-high-availability-chef/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 972a9067f90a44bbbc85ee2845d219d8
+  item_date: "2016-03-29 00:00:00"
+  title: Orchestration and Choreography ? When To Use An ESB vs a Workflow Engine
+  url: http://wso2.com/blogs/thesource/2016/03/orchestration-and-choreography-when-to-use-an-esb-vs-a-workflow-engine/
+  domain: wso2.com
+  image: ""
+- curated_id: f1493e8ed0b2ce0cfdb732c873899a3f
+  item_date: "2016-03-29 00:00:00"
+  title: How to Detect and Automatically Revoke Unintended IAM Access with Amazon
+    CloudWatch Events
+  url: https://blogs.aws.amazon.com/security/post/Tx2XGINRKCK9XNS/How-to-Detect-and-Automatically-Revoke-Unintended-IAM-Access-with-Amazon-CloudWa
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 50fd829511ced27f1b72f790ea0cff74
+  item_date: "2016-03-29 00:00:00"
+  title: Chef Delivery Tutorial on Learn Chef
+  url: https://blog.chef.io/2016/03/29/chef-delivery-tutorial-on-learn-chef/
+  domain: blog.chef.io
+  image: ""
+- curated_id: 04d432ab607af20444305866cdc6d54b
+  item_date: "2016-03-29 00:00:00"
+  title: Smart Alerts for Anomaly Detection and Data Aggregations
+  url: https://dzone.com/articles/smart-alerts-for-anomaly-detection-and-data-aggreg
+  domain: dzone.com
+  image: ""
+- curated_id: b81806fbadd89b05e754b249c00049d9
+  item_date: "2016-04-01 00:00:00"
+  title: Chef Compliance 1.0 Release
+  url: https://blog.chef.io/2016/04/01/chef-compliance-1-0-release/
+  domain: blog.chef.io
+  image: ""
+- curated_id: da32f1afdde702e5f446dae250fcc4ad
+  item_date: "2016-04-06 00:00:00"
+  title: 'Guest Blog: Best Practices using Chef with AWS'
+  url: https://blog.chef.io/2016/04/06/guest-blog-best-practices-using-chef-with-aws/
+  domain: blog.chef.io
+  image: ""
+- curated_id: 4aef426381bde36bcbf1748b892892e8
+  item_date: "2016-04-07 00:00:00"
+  title: Deploying Docker Swarm with Puppet
+  url: https://puppet.com/blog/deploying-docker-swarm-puppet
+  domain: puppet.com
+  image: ""
+- curated_id: 4cbda7dc4808ffeb39026235ac9d10e2
+  item_date: "2016-04-07 00:00:00"
+  title: 'Ops love APIs: Here is Why'
+  url: https://blog.serverdensity.com/how-to-use-apis/
+  domain: blog.serverdensity.com
+  image: ""
+- curated_id: a72a9869b6e2bc2471669c7421c57e57
+  item_date: "2016-04-07 00:00:00"
+  title: Puppet tips to know before you start automating
+  url: https://puppet.com/blog/puppet-tips-to-know-before-you-start-automating
+  domain: puppet.com
+  image: ""
+- curated_id: 1142111f851efb463e38fb8c9c654025
+  item_date: "2016-04-07 00:00:00"
+  title: Using Puppet with Mesos
+  url: https://puppet.com/blog/using-puppet-mesos
+  domain: puppet.com
+  image: ""
+- curated_id: ab2797cb88e9050853580beb713cf991
+  item_date: "2016-04-16 00:00:00"
+  title: Patterns and Processes for Continuous Delivery of Microservices
+  url: https://dzone.com/articles/patterns-and-processes-for-continuous-delivery-of
+  domain: dzone.com
+  image: ""
+- curated_id: c21ec02303d36ed283279630ceb0604e
+  item_date: "2016-04-18 00:00:00"
+  title: 'Welcome to the Puppet Community Slack '
+  url: https://puppet.com/blog/welcome-to-puppet-community-slack
+  domain: puppet.com
+  image: ""
+- curated_id: f216c0eb5ef62d91a5f824f5a55b110c
+  item_date: "2016-04-19 00:00:00"
+  title: Apprenda Brings Continuous Integration Pipeline to Enterprise PaaS
+  url: https://apprenda.com/blog/apprenda-brings-continuous-integration-pipeline-enterprise-paas/
+  domain: apprenda.com
+  image: ""
+- curated_id: 70efb7f67b040f2900fff8990b76e369
+  item_date: "2016-04-26 00:00:00"
+  title: Updating CI Environments With Travis
+  url: https://dzone.com/articles/moving-minimesos-ci-from-jenkins-to-travis
+  domain: dzone.com
+  image: ""
+- curated_id: 2edac1902232f7dabad443413ba615d3
+  item_date: "2016-04-28 00:00:00"
+  title: Continuous Delivery With Jenkins -- Part 1
+  url: https://dzone.com/articles/continuous-delivery-with-jenkins-part-1
+  domain: dzone.com
+  image: ""
+- curated_id: d9761e5527c413d28e11d63b34ef92d8
+  item_date: "2016-05-01 00:00:00"
+  title: Continuous Delivery With Jenkins -- Part 2
+  url: https://dzone.com/articles/continuous-delivery-with-jenkins-part-2
+  domain: dzone.com
+  image: ""
+- curated_id: ecfde6711294157b181b731e867f11cd
+  item_date: "2016-05-03 00:00:00"
+  title: 'A Template System for Google Docs: Google Drive Automation and PDF Generation
+    With Google Execution API'
+  url: https://dzone.com/articles/a-template-system-for-google-docs-google-drive-aut-1
+  domain: dzone.com
+  image: ""
+- curated_id: eb6330d0eab926fe2fcbc74d9a27b431
+  item_date: "2016-05-05 00:00:00"
+  title: Getting Started with GitLab and Shippable Continuous Integration
+  url: https://about.gitlab.com/2016/05/05/getting-started-gitlab-and-shippable/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 8b999c7b04be0c893b5854e4400939f0
+  item_date: "2016-05-09 00:00:00"
+  title: Automate CodeCommit and CodePipeline in AWS CloudFormation
+  url: https://dzone.com/articles/automate-codecommit-and-codepipeline-in-aws-cloudf
+  domain: dzone.com
+  image: ""
+- curated_id: a6ac5d63efd56ea094d6702c60a33c47
+  item_date: "2016-05-12 00:00:00"
+  title: Get Started With Jenkins 2.0 With Docker
+  url: https://dzone.com/articles/get-started-with-jenkins-20-with-docker
+  domain: dzone.com
+  image: ""
+- curated_id: 3a6a5bb9c98933959a32c425ea9e5677
+  item_date: "2016-05-16 00:00:00"
+  title: 'Mission Pattern: Lets Create Fluent Automation APIs'
+  url: https://dzone.com/articles/mission-pattern-a-means-to-modularise-automation-c
+  domain: dzone.com
+  image: ""
+- curated_id: 9915e10cc94947238cc9a2101571a36b
+  item_date: "2016-05-17 00:00:00"
+  title: 'Docker and Jenkins: Orchestrating Continuous Delivery'
+  url: https://dzone.com/articles/docker-and-jenkins-orchestrating-continuous-delive
+  domain: dzone.com
+  image: ""
+- curated_id: 7b6a26be1ce1d1cfa6619534512c4481
+  item_date: "2016-05-18 00:00:00"
+  title: A Dev?s Perspective on Automation
+  url: http://blog.bittitan.com/2016/05/18/a-devs-perspective-on-automation/
+  domain: blog.bittitan.com
+  image: ""
+- curated_id: 06b4f2f1819b26aca9244aa239aa3b6f
+  item_date: "2016-05-19 00:00:00"
+  title: Automating Machine Learning Workflows
+  url: https://blog.bigml.com/2016/05/19/automating-machine-learning-workflows/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: c0a13d73bd4d6ba863ab4c71a90184ad
+  item_date: "2016-05-23 00:00:00"
+  title: Changing the workflow at Zynx Health with Chef
+  url: https://blog.chef.io/2016/05/23/changing-the-workflow-at-zynx-health-with-chef/
+  domain: blog.chef.io
+  image: ""
+- curated_id: 2704f4d4ce29b0e71a16fc7bff92758b
+  item_date: "2016-05-23 00:00:00"
+  title: Enhancing Security With SDN Automation
+  url: https://www.sdxcentral.com/articles/contributed/enhancing-network-security-sdn-automation-rob-chee/2016/05/
+  domain: www.sdxcentral.com
+  image: ""
+- curated_id: ad034c55fc2dfafad4d45faed0b6c9b0
+  item_date: "2016-05-24 00:00:00"
+  title: 'Chef Server HA Beta: The best way to run Chef Server'
+  url: https://blog.chef.io/2016/05/24/chef-server-ha-beta-the-best-way-to-run-chef-server/
+  domain: blog.chef.io
+  image: ""
+- curated_id: 2532c018456ff18f800bc2c6905e5863
+  item_date: "2016-05-31 00:00:00"
+  title: 'Cloud API security: How to interface with DevOps'
+  url: http://searchcloudsecurity.techtarget.com/opinion/Cloud-API-security-How-to-interface-with-DevOps
+  domain: searchcloudsecurity.techtarget.com
+  image: ""
+- curated_id: 79a1a0c6faae5823fb384a9496eb24e8
+  item_date: "2016-06-06 00:00:00"
+  title: Aligning applications with business strategy at Wells Fargo
+  url: https://puppet.com/blog/aligning-applications-business-strategy-wells-fargo
+  domain: puppet.com
+  image: ""
+- curated_id: e1d12f484a73e4010fa04c095b180ea3
+  item_date: "2016-06-07 00:00:00"
+  title: Warewolf V1 Release Candidate
+  url: https://warewolf.io/ESB-blog/warewolf-v1-release-candidate/
+  domain: warewolf.io
+  image: ""
+- curated_id: 301ccaa3a8bd2a6a2f620b2f255b8169
+  item_date: "2016-06-10 00:00:00"
+  title: Running Puppet on Container-Centric Infrastructure
+  url: https://dzone.com/articles/running-puppet-on-container-centric-infrastructure
+  domain: dzone.com
+  image: ""
+- curated_id: 6218eeec0f3273fab9871aac9ac5a2f8
+  item_date: "2016-06-13 00:00:00"
+  title: Rackspace and the Chef Partner Cookbook Program
+  url: https://blog.chef.io/2016/06/13/rackspace-and-the-chef-partner-cookbook-program/
+  domain: blog.chef.io
+  image: ""
+- curated_id: f3cc108548099455f09af608d7951f01
+  item_date: "2016-06-14 00:00:00"
+  title: Checklists Are Prerequisites for Release Automation
+  url: https://dzone.com/articles/checklists-are-prerequisites-for-release-automatio
+  domain: dzone.com
+  image: ""
+- curated_id: aa0ab51e80d6e51bc5ef8d2d0c337cd2
+  item_date: "2016-06-14 00:00:00"
+  title: Chef Launches Habitat, New Open Source Project to Automate Applications
+  url: https://blog.chef.io/2016/06/14/chef-launches-habitat-new-open-source-project-to-automate-applications/
+  domain: blog.chef.io
+  image: ""
+- curated_id: a37efd8e9bfd8b47d6733925035a16e5
+  item_date: "2016-06-14 00:00:00"
+  title: 'Open Source at Docker, Part 3: The Tooling and Automation'
+  url: https://blog.docker.com/2016/06/open-source-docker-tooling-automation/
+  domain: blog.docker.com
+  image: ""
+- curated_id: fd041ac86f5a02070bf394f01305207e
+  item_date: "2016-06-15 00:00:00"
+  title: The Evolution of ETL and Continuous Integration
+  url: http://www.talend.com/blog/2016/06/15/the-evolution-of-etl-and-continuous-integration
+  domain: www.talend.com
+  image: ""
+- curated_id: 36a6ff0419c4d4df065be5597e00d9d2
+  item_date: "2016-06-19 00:00:00"
+  title: GitHub Continuous Deployment to a Raspberry Pi
+  url: https://dzone.com/articles/github-continuous-deployment-to-a-raspberry-pi
+  domain: dzone.com
+  image: ""
+- curated_id: 9c3b075e8306c2b76d0f1e8d9e4c6a19
+  item_date: "2016-06-20 00:00:00"
+  title: 'Docker 1.12: Now with Built-in Orchestration!'
+  url: https://blog.docker.com/2016/06/docker-1-12-built-in-orchestration/
+  domain: blog.docker.com
+  image: ""
+- curated_id: 8167f0cf8e4eb0281f3a127abb287bc2
+  item_date: "2016-06-20 00:00:00"
+  title: NGINX as a Reverse Proxy for Docker Swarm Clusters
+  url: https://dzone.com/articles/nginx-as-a-reverse-proxy-for-docker-swarm-clusters
+  domain: dzone.com
+  image: ""
+- curated_id: 16aeab31d34a6a19f718c45490ceb1ae
+  item_date: "2016-06-21 00:00:00"
+  title: Docker Introduces New Orchestration Capabilities
+  url: https://dzone.com/articles/docker-introduces-new-orchestration-capabilities
+  domain: dzone.com
+  image: ""
+- curated_id: 6283c1c0864ee11028d2f8ca617d39dc
+  item_date: "2016-06-21 00:00:00"
+  title: Managing Docker Containers With Shipyard
+  url: https://dzone.com/articles/managing-docker-containers-with-shipyard
+  domain: dzone.com
+  image: ""
+- curated_id: fdbed9ecfa54bb68bf8946134a9667ae
+  item_date: "2016-06-28 00:00:00"
+  title: NGINX and Zookeeper, Dynamic Load Balancing and Deployments
+  url: https://www.nginx.com/blog/nginx-and-zookeeper-dynamic-load-balancing-and-deployments/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 9f5646beee1b1df7c9c465075f59c9fa
+  item_date: "2016-06-29 00:00:00"
+  title: 'Automating Penetration Testing in a CI/CD Pipeline: Part 2'
+  url: https://dzone.com/articles/automating-penetration-testing-in-a-cicd-pipeline-1
+  domain: dzone.com
+  image: ""
+- curated_id: 2091fd78903013a94ecbc5afa8755ae6
+  item_date: "2016-06-29 00:00:00"
+  title: Jenkins REST API Create job
+  url: http://stackoverflow.com/questions/38137760/jenkins-rest-api-create-job
+  domain: stackoverflow.com
+  image: ""
+- curated_id: 2d3474318c1f35ed66a8ffcc858566a2
+  item_date: "2016-07-07 00:00:00"
+  title: DBmaestro Releases Expanded Open API to Support Continuous Integration
+  url: http://www.dbta.com/Editorial/News-Flashes/DBmaestro-Releases-Expanded-Open-API-to-Support-Continuous-Integration-112223.aspx
+  domain: www.dbta.com
+  image: ""
+- curated_id: 1307a755beeba139a97cb03f35e41a20
+  item_date: "2016-07-10 00:00:00"
+  title: As Online Video Surges, Publishers Turn to Automation
+  url: http://www.nytimes.com/2016/07/11/business/media/as-online-video-surges-publishers-turn-to-automation.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: 985dd945c066b1bd17dfecf2ab5a41ec
+  item_date: "2016-07-15 00:00:00"
+  title: Steering an Automation Platform at Wercker with Kubernetes
+  url: http://blog.kubernetes.io/2016/07/automation-platform-at-wercker-with-kubernetes.html
+  domain: blog.kubernetes.io
+  image: ""
+- curated_id: f880861067a6fb19ca2c01dfa9842044
+  item_date: "2016-07-17 00:00:00"
+  title: Official Consul Docker Image
+  url: https://www.hashicorp.com/blog/official-consul-docker-image.html
+  domain: www.hashicorp.com
+  image: ""
+- curated_id: 0fa03565ad0b1eac253f0b6911a609ad
+  item_date: "2016-07-20 00:00:00"
+  title: 'Presentation: Wheres My DevOps API?'
+  url: https://www.infoq.com/presentations/devops-api
+  domain: www.infoq.com
+  image: ""
+- curated_id: 2934627df84804744fc338eb4d40288c
+  item_date: "2016-07-20 00:00:00"
+  title: Puppet Releases Docker-Focused Features in Project Blueshift
+  url: https://www.infoq.com/news/2016/07/docker-features-puppet-blueshift
+  domain: www.infoq.com
+  image: ""
+- curated_id: 1f7d7f457cf84691995caea20d6c726e
+  item_date: "2016-07-21 00:00:00"
+  title: Jenkins Cluster Setup With Docker Containers
+  url: https://dzone.com/articles/jenkins-cluster-setup-with-docker-containers
+  domain: dzone.com
+  image: ""
+- curated_id: a4d4386357dc889216dfbd38da05f073
+  item_date: "2016-07-21 00:00:00"
+  title: The Ultimate Jenkins CI Resources Guide
+  url: https://dzone.com/articles/the-ultimate-jenkins-ci-resources-guide
+  domain: dzone.com
+  image: ""
+- curated_id: 066e7f8809751caa100838589ac5aa46
+  item_date: "2016-07-29 00:00:00"
+  title: 'GitHub Enterprise and Bluemix: a Foundation for Your DevOps Toolchain'
+  url: https://dzone.com/articles/github-enterprise-and-bluemix-a-foundation-for-you
+  domain: dzone.com
+  image: ""
+- curated_id: dd6490f0073d7d655e5525ea8baffa4a
+  item_date: "2016-07-29 00:00:00"
+  title: 'GitLab CI: Run jobs sequentially, in parallel or build a custom pipeline'
+  url: https://about.gitlab.com/2016/07/29/the-basics-of-gitlab-ci/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 8bf86a3a41069db8b4ca1d6604a1df65
+  item_date: "2016-08-01 00:00:00"
+  title: Introduction to Container Orchestration
+  url: https://dzone.com/articles/introduction-to-container-orchestration
+  domain: dzone.com
+  image: ""
+- curated_id: 8c7263ccc0b049ecda72bd965df14242
+  item_date: "2016-08-01 00:00:00"
+  title: Stringify Flow Basics
+  url: https://www.stringify.com/connectedthings/stringify-flow-basics/
+  domain: www.stringify.com
+  image: ""
+- curated_id: c09f03919953ed59885b442a4847ad47
+  item_date: "2016-08-02 00:00:00"
+  title: ""
+  url: https://www.nginx.com/blog/installing-nginx-and-nginxplus-with-puppet/
+  domain: www.nginx.com
+  image: ""
+- curated_id: bd7ab79b127bff711229c7691a677e42
+  item_date: "2016-08-04 00:00:00"
+  title: Automating Habitat With AWS CodePipeline
+  url: https://dzone.com/articles/automating-habitat-with-aws-codepipeline
+  domain: dzone.com
+  image: ""
+- curated_id: c421df9fe33d43a4b4494351adef57b6
+  item_date: "2016-08-05 00:00:00"
+  title: Continuous Integration, Delivery, and Deployment with GitLab
+  url: https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: cd59643f53734523477f52bef74e4a3d
+  item_date: "2016-08-09 00:00:00"
+  title: 'Intersections: DevOps, Release Engineering, and Security'
+  url: https://dzone.com/articles/intersections-devops-release-engineering-and-secur
+  domain: dzone.com
+  image: ""
+- curated_id: 02db9e6119d8b70b0cc2212e22f13870
+  item_date: "2016-08-11 00:00:00"
+  title: Maturity Levels of Continuous Integration
+  url: https://dzone.com/articles/82-maturity-levels-of-continuous-integration
+  domain: dzone.com
+  image: ""
+- curated_id: 7276d3cf8203add5c8eefa64f87b03e6
+  item_date: "2016-08-13 15:14:33"
+  title: 'Tweet: RT @shamasis: Have you used the new @postmanclient newman v3 #cli
+    yet? #api #JavaScript #nodejs https://t.co/0gn2ZOSnKR'
+  url: https://twitter.com/shamasis/status/764548629235273728
   domain: twitter.com
   image: ""
-- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_15cc6217aa0:4a35e1:517b1451
-  item_date: "2017-06-20 08:15:11"
-  title: HashiCorp Tools Useful for Continuous Integration
-  url: https://blog.codeship.com/?p=5184
+- curated_id: 7a96bcb62dc7a0b4605edb2647bb2cb3
+  item_date: "2016-08-14 00:00:00"
+  title: Using Amazon EC2 Tags to Deploy Servers with Puppet
+  url: https://dzone.com/articles/using-amazon-ec2-tags-to-deploy-servers-with-puppe
+  domain: dzone.com
+  image: ""
+- curated_id: ed1e7e2ee2cffbe892288ee70fd95f53
+  item_date: "2016-08-14 00:00:00"
+  title: From Bamboo to Jenkins, 2016 means continuously integrating
+  url: http://itknowledgeexchange.techtarget.com/coffee-talk/bamboo-jenkins-2016-means-continuously-integrating/
+  domain: itknowledgeexchange.techtarget.com
+  image: ""
+- curated_id: a30762d1a0dd46e90db97955607ddf44
+  item_date: "2016-08-16 00:00:00"
+  title: 'Automating With Puppet: Initial setup'
+  url: https://dzone.com/articles/automating-with-puppet-initial-setup
+  domain: dzone.com
+  image: ""
+- curated_id: f8d07f747da3479ea80dd01b7c14fd4b
+  item_date: "2016-08-17 00:00:00"
+  title: Use Jenkins to List the Slowest Steps in Deployment
+  url: https://dzone.com/articles/list-the-slowest-steps-in-deployment
+  domain: dzone.com
+  image: ""
+- curated_id: c5720e35d081a23cfa1e8843602776d2
+  item_date: "2016-08-18 00:00:00"
+  title: DevOps Monitoring Is a Multi-Tool Affair
+  url: https://dzone.com/articles/devops-monitoring-is-a-multi-tool-affair
+  domain: dzone.com
+  image: ""
+- curated_id: 44e300830e021536a99ddc55cc20f520
+  item_date: "2016-08-18 00:00:00"
+  title: Testing Your Automations Is Now Easier Than Ever
+  url: http://www.activecampaign.com/blog/testing-your-automations-is-now-easier-than-ever/
+  domain: www.activecampaign.com
+  image: ""
+- curated_id: d86e0ec1f09c355f51a56dc321f1e756
+  item_date: "2016-08-18 09:40:12"
+  title: 'GitHub - paypal/squbs: Akka/Spray for Large-Scale Production Deployments'
+  url: https://github.com/paypal/squbs
+  domain: github.com
+  image: ""
+- curated_id: 90612e4f8d46d4fcefbef7ffd312aad3
+  item_date: "2016-08-19 00:00:00"
+  title: The Role of System Testing in Automated Infrastructure
+  url: http://blog.smartbear.com/api-testing/system-testing-in-automated-infrastructure/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: a7ba8700127ee335ce22fc4cf44579a2
+  item_date: "2016-08-22 00:00:00"
+  title: Jenkins Templates for AWS CloudFormation
+  url: https://dzone.com/articles/jenkins-templates-for-aws-cloudformation
+  domain: dzone.com
+  image: ""
+- curated_id: bce636fff4e90eeea178ef6842fbe9ce
+  item_date: "2016-08-26 00:00:00"
+  title: 'GitLab CI: Deployment  Environments'
+  url: https://about.gitlab.com/2016/08/26/ci-deployment-and-environments/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 222f124ec2f8ba942bb96fc163dd115b
+  item_date: "2016-08-26 00:00:00"
+  title: 'Containerized CI Solutions in AWS ? Part 1: Jenkins in ECS'
+  url: https://dzone.com/articles/containerized-ci-solutions-in-aws-part-1-jenkins-i
+  domain: dzone.com
+  image: ""
+- curated_id: efea3b511904589a979cc6c6756904e5
+  item_date: "2016-08-29 00:00:00"
+  title: Security Considerations for Container Orchestration
+  url: http://blogs.adobe.com/security/2016/08/security-considerations-for-container-orchestration.html
+  domain: blogs.adobe.com
+  image: ""
+- curated_id: eca5b2dd53a802d86f4804fd37ca13b6
+  item_date: "2016-08-30 00:00:00"
+  title: New Restlet Studio Streamlines API DevOps Workflows
+  url: http://restlet.com/blog/2016/08/30/new-restlet-studio-streamlines-api-devops-workflows/
+  domain: restlet.com
+  image: ""
+- curated_id: 6d2db2dda20f56ea0e4cc13f202ad886
+  item_date: "2016-09-02 00:00:00"
+  title: Audit Trail Dashboard with CloudBees Jenkins Analytics
+  url: https://www.cloudbees.com/blog/audit-trail-dashboard-cloudbees-jenkins-analytics
+  domain: www.cloudbees.com
+  image: ""
+- curated_id: 11b4927a33b4c47f71f4d0c57cfea9b2
+  item_date: "2016-09-02 15:04:51"
+  title: 'ManoMarks/docker-swarm-visualizer: A visualizer for Docker Swarm using the
+    Docker Remote API, Node.JS, and D3'
+  url: https://github.com/ManoMarks/docker-swarm-visualizer
+  domain: github.com
+  image: ""
+- curated_id: 2adbf24ee16a8d5d6131238f29cf5897
+  item_date: "2016-09-06 00:00:00"
+  title: 'Automating with Puppet: Cron jobs and scheduled tasks'
+  url: https://puppet.com/blog/automating-puppet-cron-jobs-and-scheduled-tasks
+  domain: puppet.com
+  image: ""
+- curated_id: 2a914111a49b2e7dc9aa79f4b4c6aaa6
+  item_date: "2016-09-06 00:00:00"
+  title: ITOps in the Modern Ops World
+  url: https://dzone.com/articles/itops-in-the-modern-ops-world
+  domain: dzone.com
+  image: ""
+- curated_id: 4772999b52f1eee43be744ffc2e79c9c
+  item_date: "2016-09-08 00:00:00"
+  title: Is DevOps a cold dead fish?
+  url: http://blogs.ca.com/2016/09/08/devops-cold-dead-fish/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: a3657a70020525d3779a19b5ba606eb1
+  item_date: "2016-09-08 00:00:00"
+  title: Reasons for the Rise of DevOps
+  url: https://dzone.com/articles/rise-of-dev-ops-reasons
+  domain: dzone.com
+  image: ""
+- curated_id: ca0f8d64cbd446d4f07d6a1f6e329f70
+  item_date: "2016-09-09 00:00:00"
+  title: How to Validate That Your DevOps Process Is Working
+  url: https://www.getzephyr.com/insights/how-validate-your-devops-process-working
+  domain: www.getzephyr.com
+  image: ""
+- curated_id: 42089823948035ac5fceeb5936f8f49f
+  item_date: "2016-09-12 00:00:00"
+  title: Standardizing Cron With Puppet
+  url: https://dzone.com/articles/standardizing-cron
+  domain: dzone.com
+  image: ""
+- curated_id: c2899dc51a378952c73c661ed9fef210
+  item_date: "2016-09-12 12:15:03"
+  title: How to write powerful automated API tests with Postman, Newman and Jenkins
+  url: http://blog.getpostman.com/2015/09/03/how-to-write-powerful-automated-api-tests-with-postman-newman-and-jenkins/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: b0b9690d5bd0da55fbd206df4e1597d7
+  item_date: "2016-09-13 00:00:00"
+  title: Devops is Coming, Are You Ready?
+  url: https://dzone.com/articles/devops-is-coming-are-you-ready
+  domain: dzone.com
+  image: ""
+- curated_id: 902bac11fbee5f385b9f303845e5dee7
+  item_date: "2016-09-13 00:00:00"
+  title: Running a JMeter Test Via Jenkins Pipeline
+  url: https://dzone.com/articles/running-a-jmeter-test-via-jenkins-pipeline
+  domain: dzone.com
+  image: ""
+- curated_id: c37fa1ad74e7f922d911b062f07a0d60
+  item_date: "2016-09-14 11:04:23"
+  title: Is DevOps changing storage from simple to API?
+  url: http://www.computerworld.com/article/3119344/data-center/is-devops-changing-storage-from-simple-to-api.html
+  domain: www.computerworld.com
+  image: ""
+- curated_id: 3dd232da4be9d60155a154649b2bd2c0
+  item_date: "2016-09-15 00:00:00"
+  title: Learn API DevOps from the Experts ? Design, Testing, Deployment
+  url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
+  domain: restlet.com
+  image: ""
+- curated_id: 7809797a580138265d1617aa83904957
+  item_date: "2016-09-16 00:00:00"
+  title: 'Rewrite Rewind: APIs + DevOps = Better Storage Options for Devs'
+  url: http://www.ca.com/us/rewrite/articles/api-management/rewrite-rewind-apis-devops-better-storage-options-for-devs.html
+  domain: www.ca.com
+  image: ""
+- curated_id: ccb763e0b12ad5ca4e2354fa8f995d2d
+  item_date: "2016-09-21 00:00:00"
+  title: A Getting Started Guide to Setting up Jenkins
+  url: https://dzone.com/articles/a-getting-started-guide-to-setting-up-jenkins
+  domain: dzone.com
+  image: ""
+- curated_id: 6e792b38a4e470ba922a5ec74cd48765
+  item_date: "2016-09-22 00:00:00"
+  title: Fueling DevOps with Continuous Delivery
+  url: http://blogs.ca.com/2016/09/22/fueling-devops-with-continuous-delivery/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 5bd8209095d336e749375aeb234c7f97
+  item_date: "2016-09-22 00:00:00"
+  title: Automate Processes, Not Relationships
+  url: http://www.activecampaign.com/blog/human-touch-and-sales-automation/
+  domain: www.activecampaign.com
+  image: ""
+- curated_id: caa811216161287b7b73db367f77bf3d
+  item_date: "2016-09-22 00:00:00"
+  title: Incremental, Iterative Data Processing with Timely Dataflow
+  url: http://acmwebvm01.acm.org/magazines/2016/10/207774-incremental-iterative-data-processing-with-timely-dataflow/fulltext
+  domain: acmwebvm01.acm.org
+  image: ""
+- curated_id: 3b413f231a3afdbee58dab703c71f685
+  item_date: "2016-09-22 00:00:00"
+  title: What?s New in OpenShift 3.3 ? Cluster Management
+  url: https://blog.openshift.com/whats-new-openshift-3-3-cluster-management/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 30aace51f7f4cb40c1f10d5f43a99d3c
+  item_date: "2016-09-23 00:00:00"
+  title: Orchestrating Docker Swarm With Cloudify
+  url: https://dzone.com/articles/orchestrating-docker-112-swarm-with-cloudify
+  domain: dzone.com
+  image: ""
+- curated_id: 540683b2648f2b04187ed5fc2344964b
+  item_date: "2016-09-27 00:00:00"
+  title: 'Alert Aggregation: How to Keep Heads from Exploding'
+  url: https://victorops.com/blog/alert-aggregation-keep-peoples-heads-exploding/
+  domain: victorops.com
+  image: ""
+- curated_id: 1ecc71e9589267990c75d40f46da7096
+  item_date: "2016-09-28 00:00:00"
+  title: Probing for Limits of Jenkins
+  url: https://dzone.com/articles/probing-for-limits-of-jenkins
+  domain: dzone.com
+  image: ""
+- curated_id: 784519f8cffddacddbcbbae632ca4557
+  item_date: "2016-09-28 00:00:00"
+  title: Restlet Adds API Test Automation to Help DevOps Teams Collaborate
+  url: http://restlet.com/blog/2016/09/28/restlet-adds-api-test-automation-to-help-devops-teams-collaborate/
+  domain: restlet.com
+  image: ""
+- curated_id: 2b2376739675f7ea89a247272553031c
+  item_date: "2016-09-29 00:00:00"
+  title: How to Start Working with the GitHub Plugin for Jenkins
+  url: https://dzone.com/articles/how-to-start-working-with-the-github-plugin-for-je
+  domain: dzone.com
+  image: ""
+- curated_id: 54eac746ad2180335ad076edf219d668
+  item_date: "2016-10-01 00:00:00"
+  title: Deploying IIS and ASP.NET With Puppet
+  url: https://dzone.com/articles/deploying-iis-and-aspnet-with-puppet
+  domain: dzone.com
+  image: ""
+- curated_id: 341dacb74b7f83ac7917d42f878f119c
+  item_date: "2016-10-03 00:00:00"
+  title: Compose RabbitMQ now out of beta
+  url: https://www.compose.com/articles/compose-rabbitmq-now-out-of-beta/
+  domain: www.compose.com
+  image: ""
+- curated_id: 83600ed6fb44b90849faf32b7031fc1f
+  item_date: "2016-10-03 00:00:00"
+  title: ""
+  url: https://www.nginx.com/blog/devops-automation-nginx-plus/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 649c3e6dc579ba1cbae0f5e07289d7ba
+  item_date: "2016-10-05 00:00:00"
+  title: Using LoopBack to Build APIs For APIs
+  url: https://strongloop.com/strongblog/using-loopback-to-build-apis-for-apis/
+  domain: strongloop.com
+  image: ""
+- curated_id: 62afd57bc93fe4a14e595e2b0a4f93f2
+  item_date: "2016-10-05 05:09:16"
+  title: 'Tweet: Automation is not DevOps ndash; The DevOps Collective https://t.co/zM5cAlB00l'
+  url: https://twitter.com/datawireio/statuses/783640196994719744
+  domain: twitter.com
+  image: ""
+- curated_id: 12e4d260c8b0ea8befa178a64eb0a130
+  item_date: "2016-10-11 00:00:00"
+  title: 8 Powerful Features to Help You Use Buffer to the Fullest
+  url: https://blog.bufferapp.com/use-buffer-to-the-fullest
+  domain: blog.bufferapp.com
+  image: ""
+- curated_id: 4346ec762a27cd876928122429ee00d9
+  item_date: "2016-10-13 00:00:00"
+  title: Puppet Enterprise and Atlassian Bitbucket Pipelines
+  url: https://puppet.com/blog/puppet-enterprise-and-atlassian-bitbucket-pipelines
+  domain: puppet.com
+  image: ""
+- curated_id: 4bba31b9fab99752df35b33c5a06899d
+  item_date: "2016-10-13 14:37:00"
+  title: 'Mechanical Turk: Research in the Crowdsourcing Age'
+  url: http://www.pewinternet.org/2016/07/11/research-in-the-crowdsourcing-age-a-case-study/
+  domain: www.pewinternet.org
+  image: ""
+- curated_id: bb09a6e1b8a4f1319e6edabd98b86707
+  item_date: "2016-10-17 00:00:00"
+  title: Why We Chose GitLab CI for our CI/CD Solution
+  url: https://about.gitlab.com/2016/10/17/gitlab-ci-oohlala/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 8a01f6b445cc72476444c6dc80804322
+  item_date: "2016-10-18 00:00:00"
+  title: Asynchronous APIs in Choreographed Microservices
+  url: http://nordicapis.com/asynchronous-apis-in-choreographed-microservices/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 4a7c02e549d081ba692a1a2e8cde0f0a
+  item_date: "2016-10-18 12:29:16"
+  title: Workflow Update Brings Ability to Interact with Any Web API
+  url: https://www.macstories.net/ios/workflow-update-brings-ability-to-interact-with-any-web-api/
+  domain: www.macstories.net
+  image: ""
+- curated_id: ee310e2578031edc7359de8d6b6e9e73
+  item_date: "2016-10-31 00:00:00"
+  title: 'Integration Announcement: VictorOps and VividCortex'
+  url: https://victorops.com/blog/integration-victorops-vividcortex/
+  domain: victorops.com
+  image: ""
+- curated_id: 7b9ae85a1f53effcc5c380efb0e7f155
+  item_date: "2016-11-03 00:00:00"
+  title: CodePipeline Update ? Build Continuous Delivery Workflows for CloudFormation
+    Stacks
+  url: https://aws.amazon.com/blogs/aws/codepipeline-update-build-continuous-delivery-workflows-for-cloudformation-stacks/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: a33156d88b6a89336467fdd94b03e80f
+  item_date: "2016-11-05 17:03:22"
+  title: Scenarios - StopLight
+  url: http://stoplight.io/platform/scenarios/
+  domain: stoplight.io
+  image: ""
+- curated_id: 29827f3d6765de4ce837c5f8b8a38469
+  item_date: "2016-11-10 00:00:00"
+  title: Turning Your App into Separate Containers for Better CI/CD
+  url: https://blog.codeship.com/turning-your-app-into-separate-containers-for-better-cicd/
   domain: blog.codeship.com
   image: ""
-- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15ce52693be:3084d8a:5b78a817
-  item_date: "2017-06-26 09:00:55"
-  title: CircleCI Containerizes Build, Test and Deploy Services as Separate Components
-  url: https://thenewstack.io/?p=2525505
-  domain: thenewstack.io
+- curated_id: e862f668762c7e1bca3e285f8bb47326
+  item_date: "2016-11-10 00:00:00"
+  title: Building Docker images with Puppet
+  url: https://puppet.com/blog/building-docker-images-puppet
+  domain: puppet.com
   image: ""
-- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15cea4ac9d5:324d5df:fe3a8465
-  item_date: "2017-06-27 09:00:37"
-  title: "Digital Magic: Disney\u2019s DevOps Transformation"
-  url: https://thenewstack.io/?p=2478195
-  domain: thenewstack.io
+- curated_id: de791fa638eae2b1df4b0a7060d1278b
+  item_date: "2016-12-13 00:00:00"
+  title: Sanity Checking Your Feature Branches With a Personal CI Server
+  url: https://dzone.com/articles/sanity-chyecking-your-feature-branches-with-a-pers
+  domain: dzone.com
   image: ""
-- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15cefeca5fb:110f18f:661f1d99
-  item_date: "2017-06-28 11:17:50"
-  title: 'Kubernetes Tutorial : An API Perspective on How Kubernetes Works'
-  url: https://medium.com/p/5fd30d1010ff
-  domain: medium.com
+- curated_id: 00d58c53e1ded6ba63f32c08e9a6e2ef
+  item_date: "2016-12-13 00:00:00"
+  title: Test Automation Best Practices
+  url: https://dzone.com/articles/test-automation-best-practices
+  domain: dzone.com
   image: ""
-- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15cf79e14ea:456fc29:fe3a8465
-  item_date: "2017-06-29 02:22:01"
-  title: Automation using GitHub Events
-  url: https://medium.com/p/23d602617348
-  domain: medium.com
+- curated_id: 8e0b993e915f961e766892eb9885861a
+  item_date: "2016-12-15 00:00:00"
+  title: Selecting Your Local Continuous Integration Tool
+  url: https://dzone.com/articles/devops-tips-to-select-your-hosted-continuous-integ
+  domain: dzone.com
   image: ""
-- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15cfa3d4b87:53b75f9:517b1451
-  item_date: "2017-06-30 11:21:05"
-  title: Kubernetes 1.7 Brings Extensibility, Security Hardening and the Network Policy
-    API
-  url: https://thenewstack.io/?p=2607594
-  domain: thenewstack.io
+- curated_id: 236d9b0dbc44b939ebe1d27b71439daa
+  item_date: "2016-12-15 00:00:00"
+  title: Why We Invested in Automation and QA Early
+  url: http://blog.rapidapi.com/2016/12/15/why-we-invested-in-automation-and-qa-early/
+  domain: blog.rapidapi.com
+  image: ""
+- curated_id: 9b1995c875dd7a090cc9fa121ab13a6d
+  item_date: "2016-12-26 00:00:00"
+  title: Scheduling Regular Travis CI Builds With Cron Jobs
+  url: https://dzone.com/articles/scheduling-regular-travis-ci-builds-with-cron-jobs
+  domain: dzone.com
+  image: ""
+- curated_id: 8f1e59ba4c33294b50fa1523fa8efe15
+  item_date: "2017-01-04 00:00:00"
+  title: 'GitHub API Profile: Automate Your GitHub Workflow'
+  url: http://blog.rapidapi.com/2017/01/05/github-api-profile-automate-your-github-workflow/
+  domain: blog.rapidapi.com
+  image: ""
+- curated_id: c01b5e6c92bc19c88aa67166a3a7836f
+  item_date: "2017-01-04 00:00:00"
+  title: '5 Keys to API DevOps Success at Zalando: API-First in the Real World'
+  url: http://restlet.com/blog/2017/01/04/5-keys-to-api-devops-success-at-zalando-api-first-in-the-real-world/
+  domain: restlet.com
+  image: ""
+- curated_id: ad43b738d6ce4363d610675daafacd16
+  item_date: "2017-01-05 00:00:00"
+  title: Harnessing the Integration Spectrum
+  url: http://www.tibco.com/blog/2017/01/05/harnessing-the-integration-spectrum/
+  domain: www.tibco.com
+  image: ""
+- curated_id: 82ac68f401e60511ae2398a4d797cb2b
+  item_date: "2017-01-05 00:00:00"
+  title: How we can bring automation to life
+  url: http://360.here.com/2017/01/05/how-we-can-bring-automation-to-life/
+  domain: 360.here.com
+  image: ""
+- curated_id: 675b8c5504aaca044705fd83600a2d4c
+  item_date: "2017-01-17 00:00:00"
+  title: Incorporating the Database Into the DevOps Tool Chain
+  url: https://dzone.com/articles/3-tools-to-help-incorporate-the-database-into-the
+  domain: dzone.com
+  image: ""
+- curated_id: fe03332bdad74f19dbab3c9c5dd6e3ab
+  item_date: "2017-01-20 00:00:00"
+  title: Barracuda Networks Brings DevOps Processes to IT Security
+  url: http://www.itbusinessedge.com/blogs/it-unmasked/barracuda-networks-brings-devops-processes-to-it-security.html
+  domain: www.itbusinessedge.com
+  image: ""
+- curated_id: ccd295d9de01facad8cf4dd61d6bac5d
+  item_date: "2017-01-20 00:00:00"
+  title: Why Organizations Fail to Adopt CI and CD
+  url: https://dzone.com/articles/why-organizations-fail-to-adopt-cicd
+  domain: dzone.com
+  image: ""
+- curated_id: dbb4be50ab43e5a64b21cbe3d522a2e0
+  item_date: "2017-01-30 00:00:00"
+  title: Writing a cron job microservice with Serverless and AWS Lambda
+  url: https://blog.readme.io/writing-a-cron-job-microservice-with-serverless-and-aws-lambda/
+  domain: blog.readme.io
+  image: ""
+- curated_id: 507a55c4af8742a097edc8ae2f7f6130
+  item_date: "2017-01-30 00:00:00"
+  title: 'ITIL and DevOps: Differences  Frameworks Working Together'
+  url: http://www.bmc.com/blogs/itil-and-devops-lets-not-paper-over-the-differences/
+  domain: www.bmc.com
+  image: ""
+- curated_id: c63f5862983b8c74db9b4ac441ea825e
+  item_date: "2017-02-07 00:00:00"
+  title: Introducing HubCommander
+  url: http://techblog.netflix.com/2017/02/introducing-hubcommander.html
+  domain: techblog.netflix.com
+  image: ""
+- curated_id: 0dad5d917ca953a06e4a3b5cae339eef
+  item_date: "2017-02-07 00:00:00"
+  title: DevOps and Legacy Systems
+  url: https://dzone.com/articles/devops-and-legacy-systems
+  domain: dzone.com
+  image: ""
+- curated_id: 5bb8d62ee3f0a50e4b45a3bd7dfcc270
+  item_date: "2017-02-07 00:00:00"
+  title: 'Docker: A Favourite in the DevOps World'
+  url: http://opensourceforu.com/2017/02/docker-favourite-devops-world/
+  domain: opensourceforu.com
+  image: ""
+- curated_id: 3dd034e7b0c6dc84c6d0ecba9c213015
+  item_date: "2017-02-07 00:00:00"
+  title: 'Migrating From Jenkins To Codeship: Testing'
+  url: https://blog.codeship.com/migrating-from-jenkins-to-codeship-testing/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: f5e8ba76546d88fbc9f0502e003319d1
+  item_date: "2017-02-07 00:00:00"
+  title: Stoplight Launches Scenarios API Testing and Debugging Tool
+  url: https://www.programmableweb.com/news/stoplight-launches-scenarios-api-testing-and-debugging-tool/brief/2017/02/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 179e5120eb3b53725d2ebc30b66a4273
+  item_date: "2017-02-09 00:00:00"
+  title: 'Migrating from Jenkins to Codeship: Organizations'
+  url: https://blog.codeship.com/migrating-from-jenkins-to-codeship-organizations/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: e3351c824598a36445fc74152b91d61b
+  item_date: "2017-02-09 00:00:00"
+  title: Migrating from Snap CI to Codeship
+  url: https://blog.codeship.com/migrating-snap-ci-codeship/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 4b7f012faad66b5b8baad35bc68b71b1
+  item_date: "2017-02-10 11:00:55"
+  title: "CloudFormation templates make it easy to provision #StepFunctions state
+    machines amp; coordinate microservices.\u2026 https://t.co/5ixk3mfET5"
+  url: https://aws.amazon.com/about-aws/whats-new/2017/02/aws-cloudformation-adds-support-for-aws-step-functions/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 887f5f2bbab3aee84ed8a9ad4ec29eed
+  item_date: "2017-02-14 00:00:00"
+  title: 'Visual Studio Extensibility (Day 2): Deploying Visual Studio Extension on
+    staging server and GIT via Continuous Integration'
+  url: https://www.codeproject.com/Articles/1170705/Visual-Studio-Extensibility-Day-Deploying-Visual-S
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 4fc8dc18f950a61ad963994a0bc1d1db
+  item_date: "2017-02-15 00:00:00"
+  title: Using Workflow Automation with Pardot
+  url: http://www.pardot.com/blog/using-workflow-automation-pardot/
+  domain: www.pardot.com
+  image: ""
+- curated_id: ebb68bb4b29cc132dab0cfb0838ec18c
+  item_date: "2017-02-15 00:00:00"
+  title: What Is Continuous Delivery?
+  url: https://dzone.com/articles/what-is-continuous-delivery-2
+  domain: dzone.com
+  image: ""
+- curated_id: f2335918576afbc6b493ea5e178626c3
+  item_date: "2017-02-16 00:00:00"
+  title: 'Guest post: Multi-Cloud continuous delivery using Spinnaker at Waze'
+  url: https://cloudplatform.googleblog.com/2017/02/guest-post-multi-cloud-continuous-delivery-using-Spinnaker-at-Waze.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: c5618f38f2cab877e8966e6df9a36d38
+  item_date: "2017-02-21 00:00:00"
+  title: 'Migrating From Jenkins To Codeship: Notifications'
+  url: https://blog.codeship.com/migrating-jenkins-codeship-notifications/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 2c544e0f0114335143c33f75b1f54754
+  item_date: "2017-02-22 00:00:00"
+  title: Achieving CI and CD With Kubernetes
+  url: https://dzone.com/articles/achieving-cicd-with-kubernetes
+  domain: dzone.com
+  image: ""
+- curated_id: f5ec68e55d2467387261ccc6d8ffc1b2
+  item_date: "2017-02-22 00:00:00"
+  title: "Continuous Integration \u2013 a tool developers expect"
+  url: https://about.gitlab.com/2017/02/22/ci-integral-to-everyday-work/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: d4517740a1664413886303d5db4fce05
+  item_date: "2017-02-22 00:00:00"
+  title: 'Docker in Continuous Integration: Part I'
+  url: https://dzone.com/articles/docker-in-continuous-integration-part-1
+  domain: dzone.com
+  image: ""
+- curated_id: dab5dbbb5fb6b4be7ffdc4782a959b5e
+  item_date: "2017-02-24 00:00:00"
+  title: Success Story of Monitis and VictorOps Integration
+  url: http://www.monitis.com/blog/success-story-of-monitis-and-victorops-integration/
+  domain: www.monitis.com
+  image: ""
+- curated_id: f85a7531514c602028fdfe309386f9a1
+  item_date: "2017-03-06 00:00:00"
+  title: 'CRN Exclusive: Puppet Channel Chief On Partner-Centric Transformation And
+    DevOps Opportunities For The Channel'
+  url: http://www.crn.com/slide-shows/applications-os/300084057/crn-exclusive-puppet-channel-chief-on-partner-centric-transformation-and-devops-opportunities-for-the-channel.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: 56317414168a03b0a5bd69378fdc542a
+  item_date: "2017-03-06 00:00:00"
+  title: 3 Tips for Introducing Continuous Workflows to Your Development Process
+  url: https://about.gitlab.com/2017/03/06/introduce-continuous-workflows/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 45c087f9292cf36e451046da36bdcdad
+  item_date: "2017-03-07 00:00:00"
+  title: Security considerations in a DevOps pipeline
+  url: https://blog.cloudpassage.com/2017/03/07/security-in-a-devops-pipeline/
+  domain: blog.cloudpassage.com
+  image: ""
+- curated_id: d1e16b43e96e9178316a79a7951ac4a9
+  item_date: "2017-03-14 00:00:00"
+  title: Building the IIoT With DevOps
+  url: http://blog.opto22.com/optoblog/building-the-iiot-with-devops
+  domain: blog.opto22.com
+  image: ""
+- curated_id: 8bcc0c14ace96314751eb0c44473a6c4
+  item_date: "2017-03-14 00:00:00"
+  title: "Demo \u2013 CI/CD with GitLab in action"
+  url: https://about.gitlab.com/2017/03/13/ci-cd-demo/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 2ba4fb6a1eb80a6c4fdcbfebfebbf341
+  item_date: "2017-03-15 00:00:00"
+  title: Streamline AMI Maintenance and Patching Using Amazon EC2 Systems Manager
+  url: https://aws.amazon.com/blogs/aws/streamline-ami-maintenance-and-patching-using-amazon-ec2-systems-manager-automation/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 5dff88b8027c10874cc76768772d411d
+  item_date: "2017-03-17 00:00:00"
+  title: U mad bro? Disaster planning for on-call
+  url: https://victorops.com/blog/u-mad-bro-disaster-planning/
+  domain: victorops.com
+  image: ""
+- curated_id: b6ecb0d4112bad88aefcbb4384956e41
+  item_date: "2017-03-21 00:00:00"
+  title: Bitbucket Adds Pipelines
+  url: https://dzone.com/articles/bitbucket-adds-pipelines
+  domain: dzone.com
+  image: ""
+- curated_id: fdecdd20a7295a3edbaea89b501caf45
+  item_date: "2017-03-22 00:00:00"
+  title: 'DevSecOps: Embracing Automation While Letting Go of Tradition'
+  url: https://dzone.com/articles/devsecops-embracing-automation-while-letting-go-of
+  domain: dzone.com
+  image: ""
+- curated_id: e9e065dfd98c2ddb1a674f2bddfc9d8f
+  item_date: "2017-03-22 00:00:00"
+  title: Microservices With Continuous Delivery Using Docker and Jenkins
+  url: https://dzone.com/articles/microservices-continuous-delivery-with-docker-and
+  domain: dzone.com
+  image: ""
+- curated_id: 0e13e4c568bdf7101bb74e9132092e25
+  item_date: "2017-03-23 00:00:00"
+  title: Preparing for Continuous Delivery
+  url: https://dzone.com/refcardz/preparing-continuous-delivery
+  domain: dzone.com
+  image: ""
+- curated_id: 22bde4b0e6d015c45e3caee3149b72c5
+  item_date: "2017-04-03 00:00:00"
+  title: Continuous Delivery Tools Adds GitHub Support and My Build Notifications
+  url: https://blogs.msdn.microsoft.com/visualstudio/2017/04/03/continuous-delivery-tools-adds-github-support-and-my-build-notifications/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 61f85b307db7107703a0370ec0e019b5
+  item_date: "2017-04-03 00:00:00"
+  title: The Anatomy of a Release Pipeline
+  url: https://dzone.com/articles/the-anatomy-of-a-release-pipeline
+  domain: dzone.com
+  image: ""
+- curated_id: 4a30eede069094cbc56548b3a1e4d0c0
+  item_date: "2017-04-03 10:00:25"
+  title: Seegrid Expands Supervisor API to Provide Interoperability Across Automation
+    Systems
+  url: http://finance.yahoo.com/news/seegrid-expands-supervisor-api-interoperability-130000736.html
+  domain: finance.yahoo.com
+  image: ""
+- curated_id: 35abc1020eaa9658e47c810eb491c5a9
+  item_date: "2017-04-04 00:00:00"
+  title: Application Lifecycle Management (ALM) Software Market Analysis...
+  url: http://www.openpr.com/news/491549/Application-Lifecycle-Management-ALM-Software-Market-Analysis-Shares-And-Index-Worldwide-2006-to-Current-Quarterly.html
+  domain: www.openpr.com
+  image: ""
+- curated_id: 8b466b6462a83a5e3fe9b175a516f567
+  item_date: "2017-04-07 00:00:00"
+  title: Managing Datadog with Terraform
+  url: https://www.datadoghq.com/blog/managing-datadog-with-terraform/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 5f9bcb5aa5be8ea3bd6c03244e531c42
+  item_date: "2017-04-13 00:00:00"
+  title: Automating project creation with Google Cloud Deployment Manager
+  url: https://cloudplatform.googleblog.com/2017/04/automating-project-creation-with-Google-Cloud-Deployment-Manager.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: e8ba1396a3f3ee3857e91896610aa708
+  item_date: "2017-04-18 00:00:00"
+  title: ChatOps and DevOps Best Practices
+  url: https://dzone.com/articles/chatops-and-devops-best-practices
+  domain: dzone.com
+  image: ""
+- curated_id: 71f72f788229fd605134055bd39196c8
+  item_date: "2017-04-19 00:00:00"
+  title: Continuous Delivery to Microsoft Azure with Docker
+  url: https://blog.codeship.com/continuous-delivery-to-microsoft-azure-with-docker/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 3cbd8c9fdb2ee53fc47b158b526b998b
+  item_date: "2017-04-24 00:00:00"
+  title: Running Puppet software in Docker containers
+  url: https://puppet.com/blog/running-puppet-software-docker-containers
+  domain: puppet.com
+  image: ""
+- curated_id: bde3c76f83756dbdce34f251c4f840e3
+  item_date: "2017-04-25 00:00:00"
+  title: Deploy Code to Containers From Git Automatically
+  url: https://dzone.com/articles/deploy-code-to-containers-from-git-automatically-1
+  domain: dzone.com
+  image: ""
+- curated_id: 8f13702c59ec718dcf422d95ec89e15e
+  item_date: "2017-04-27 00:00:00"
+  title: Introducing Formatter In Built.io Flow Express
+  url: https://www.built.io/blog/introducing-formatter-in-builtio-flow-express
+  domain: www.built.io
+  image: ""
+- curated_id: ea9a880fb24de14f43a0fe25dd5b3831
+  item_date: "2017-04-27 10:15:48"
+  title: Execute Postman Collections in your continuous integration pipeline with
+    VSTS and Newman
+  url: http://blog.jongallant.com/2017/04/postman-newman-vsts-continuous-integration/
+  domain: blog.jongallant.com
+  image: ""
+- curated_id: e80fb6552c09986f4a4af492cf628693
+  item_date: "2017-04-27 11:53:09"
+  title: 'Tweet: Tutorial: Continuous Integration with Codeship and Runscope API Tests
+    https://t.co/5jvfcdq6C5'
+  url: https://twitter.com/APIdaysGlobal/statuses/857668959079976960
+  domain: twitter.com
+  image: ""
+- curated_id: 0f814f2bdcf96695212263e3451805a2
+  item_date: "2017-05-02 00:00:00"
+  title: Scoring Continuous Integration
+  url: https://dzone.com/articles/scoring-continuous-integration
+  domain: dzone.com
+  image: ""
+- curated_id: 5656f25142df9c776b276c7e31ae73c0
+  item_date: "2017-05-03 00:00:00"
+  title: Implementing Continuous Delivery
+  url: https://dzone.com/articles/implementing-continuous-delivery
+  domain: dzone.com
+  image: ""
+- curated_id: d9dc1d0e017424f1404255882e6cfd48
+  item_date: "2017-05-03 00:00:00"
+  title: Create a Continuous Deployment Pipeline with Node.js and Jenkins
+  url: https://dzone.com/articles/create-a-continuous-deployment-pipeline-with-nodej
+  domain: dzone.com
+  image: ""
+- curated_id: 014dba61a102434033efd90d449efdab
+  item_date: "2017-05-03 00:00:00"
+  title: "Inside GitLab\u2019s Code Review Flow"
+  url: https://about.gitlab.com/2017/05/02/inside-gitlabs-code-review-flow/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: a484cd187d3129df914f12fbd695bf1b
+  item_date: "2017-05-03 00:00:00"
+  title: Take Control Of Your Workflow With Switch
+  url: https://www.built.io/blog/take-control-of-your-workflow-with-switch
+  domain: www.built.io
+  image: ""
+- curated_id: 5312784405b6d776bfe29e9209dfff78
+  item_date: "2017-05-03 00:00:00"
+  title: Red Hat Offers New Tools For An Automated Enterprise
+  url: http://www.crn.com/news/channel-programs/video/300084792/red-hat-offers-new-tools-for-an-automated-enterprise.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: d4ee56c3747d4629c67032536cf02930
+  item_date: "2017-05-03 15:07:00"
+  title: Serverless Takes DevOps to the Next Level
+  url: https://www.infoq.com/articles/serverless-takes-devops-next-level
+  domain: www.infoq.com
+  image: ""
+- curated_id: bb97811fe9daf32c06807e801d08e816
+  item_date: "2017-05-08 00:00:00"
+  title: What to Look for in a Continuous Integration Tool
+  url: https://about.gitlab.com/2017/05/08/what-to-look-for-in-ci-cd-solution/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: b38bfed574b3b31d3722310ba26881a4
+  item_date: "2017-05-10 00:00:00"
+  title: The Importance Of IaaS To DevOps
+  url: http://dyn.com/blog/the-importance-of-iaas-to-devops/
+  domain: dyn.com
+  image: ""
+- curated_id: e4bbda00e51da97260faecaaa1c56032
+  item_date: "2017-05-11 00:00:00"
+  title: Performance Monitoring with an Incident Response Orchestration System
+  url: http://blog.catchpoint.com/2017/05/11/performance-monitoring-incident-response-orchestration-system/
+  domain: blog.catchpoint.com
   image: ""
 ...
