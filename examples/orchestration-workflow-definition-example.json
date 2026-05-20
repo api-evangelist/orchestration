@@ -1,0 +1,54 @@
+{
+  "name": "order-fulfillment",
+  "version": "v2.3.0",
+  "description": "End-to-end fulfillment workflow including payment capture, inventory reservation, shipment booking, and customer notification.",
+  "engine": "temporal",
+  "trigger": {
+    "type": "event",
+    "event": "order.created"
+  },
+  "inputs": [
+    { "name": "order_id", "type": "string", "required": true },
+    { "name": "customer_id", "type": "string", "required": true },
+    { "name": "priority", "type": "string", "required": false }
+  ],
+  "steps": [
+    {
+      "id": "validate-order",
+      "type": "activity",
+      "depends_on": [],
+      "retry": { "max_attempts": 3, "backoff": "exponential" },
+      "timeout_seconds": 30
+    },
+    {
+      "id": "capture-payment",
+      "type": "activity",
+      "depends_on": ["validate-order"],
+      "retry": { "max_attempts": 5, "backoff": "exponential" },
+      "timeout_seconds": 60
+    },
+    {
+      "id": "reserve-inventory",
+      "type": "activity",
+      "depends_on": ["capture-payment"],
+      "retry": { "max_attempts": 3, "backoff": "exponential" },
+      "timeout_seconds": 60
+    },
+    {
+      "id": "book-shipment",
+      "type": "activity",
+      "depends_on": ["reserve-inventory"],
+      "retry": { "max_attempts": 3, "backoff": "exponential" },
+      "timeout_seconds": 120
+    },
+    {
+      "id": "notify-customer",
+      "type": "activity",
+      "depends_on": ["book-shipment"],
+      "retry": { "max_attempts": 5, "backoff": "fixed" },
+      "timeout_seconds": 30
+    }
+  ],
+  "timeout_seconds": 86400,
+  "durable": true
+}

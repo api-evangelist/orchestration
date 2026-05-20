@@ -1,0 +1,268 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Orchestration
+  description: Vocabulary for the orchestration topic, covering container orchestration platforms (Kubernetes, Nomad, ECS, Swarm) and workflow orchestration engines (Temporal, Airflow, Argo Workflows, Step Functions, Prefect, Dagster, Kestra, Inngest).
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: Kubernetes API
+      namespace: kubernetes
+      status: active
+    - name: HashiCorp Nomad API
+      namespace: hashicorp-nomad
+      status: active
+    - name: Temporal API
+      namespace: temporal
+      status: active
+    - name: Argo Workflows API
+      namespace: argo-workflows
+      status: active
+    - name: AWS Step Functions API
+      namespace: aws-step-functions
+      status: active
+    - name: Apache Airflow API
+      namespace: airflow
+      status: active
+
+  resources:
+    - name: workloads
+      description: Containerized workloads (Deployments, StatefulSets, Jobs, ECS Tasks, Nomad jobs) managed by an orchestrator
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+        - scale
+    - name: pods
+      description: Individual scheduling units running one or more containers
+      actions:
+        - list
+        - get
+        - delete
+        - exec
+        - logs
+    - name: clusters
+      description: Pools of machines managed by a control plane that schedule and run workloads
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: workflow-definitions
+      description: Definitions of workflows, DAGs, or state machines executed by a workflow engine
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: workflow-executions
+      description: Individual executions or runs of a workflow definition
+      actions:
+        - list
+        - get
+        - start
+        - signal
+        - cancel
+        - retry
+    - name: schedules
+      description: Recurring schedules that trigger workflows or jobs at defined intervals
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: create
+      description: Create a new resource
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: delete
+      description: Remove a resource
+      httpMethod: DELETE
+      pattern: destructive
+    - name: scale
+      description: Change replica count of a workload
+      httpMethod: PATCH
+      pattern: write
+    - name: start
+      description: Start a workflow execution
+      httpMethod: POST
+      pattern: write
+    - name: signal
+      description: Send a signal or event to an in-flight workflow execution
+      httpMethod: POST
+      pattern: write
+
+  schemas:
+    core:
+      - name: Workload
+        description: A containerized workload managed by an orchestration platform
+        properties:
+          - name
+          - namespace
+          - kind
+          - replicas
+          - image
+          - resources
+          - ports
+          - scheduling
+          - autoscaling
+          - status
+      - name: WorkflowDefinition
+        description: A definition of an orchestrated workflow, DAG, or state machine
+        properties:
+          - name
+          - version
+          - engine
+          - trigger
+          - inputs
+          - steps
+          - timeout_seconds
+          - durable
+
+  enums:
+    workload_kinds:
+      - Deployment
+      - StatefulSet
+      - DaemonSet
+      - Job
+      - CronJob
+      - Service
+      - Task
+    workload_status:
+      - pending
+      - running
+      - succeeded
+      - failed
+      - degraded
+      - terminating
+    workflow_engines:
+      - temporal
+      - argo-workflows
+      - step-functions
+      - airflow
+      - prefect
+      - dagster
+      - kestra
+      - inngest
+      - conductor
+      - cloud-workflows
+      - serverless-workflow
+    trigger_types:
+      - manual
+      - schedule
+      - event
+      - api
+      - webhook
+    step_types:
+      - activity
+      - task
+      - wait
+      - choice
+      - parallel
+      - map
+      - subworkflow
+      - human
+
+capability:
+  workflows:
+    - name: Microservices Platform Deployment
+      description: Deploy and scale containerized microservices across a Kubernetes cluster using declarative manifests
+      apis:
+        - kubernetes
+        - amazon-eks
+        - google-kubernetes-engine
+      personas:
+        - Platform Engineer
+      domains:
+        - Container Orchestration
+    - name: Durable Business Workflow Execution
+      description: Run long-running, fault-tolerant business processes that survive failures and infrastructure restarts
+      apis:
+        - temporal
+        - aws-step-functions
+        - inngest
+      personas:
+        - Application Developer
+      domains:
+        - Workflow Orchestration
+    - name: Data Pipeline Orchestration
+      description: Schedule and monitor DAG-based ETL, ML, and analytics pipelines across data sources and sinks
+      apis:
+        - airflow
+        - dagster
+        - prefect
+        - kestra
+      personas:
+        - Data Engineer
+      domains:
+        - Workflow Orchestration
+
+  personas:
+    - id: platform-engineer
+      name: Platform Engineer
+      description: Engineers operating Kubernetes and container platforms for application teams
+      workflows:
+        - Microservices Platform Deployment
+    - id: application-developer
+      name: Application Developer
+      description: Developers building application features on top of durable workflow engines
+      workflows:
+        - Durable Business Workflow Execution
+    - id: data-engineer
+      name: Data Engineer
+      description: Engineers building and operating data pipelines and ML workflows
+      workflows:
+        - Data Pipeline Orchestration
+
+  domains:
+    - name: Container Orchestration
+      description: Platforms that schedule and manage containerized workloads across clusters of machines
+    - name: Workflow Orchestration
+      description: Engines that execute long-running, multi-step workflows, DAGs, and state machines
+    - name: GitOps and Continuous Delivery
+      description: Tools that reconcile Git-defined manifests into running clusters and applications
+
+crossReference:
+  - resource: workloads
+    operations:
+      - list
+      - create
+      - scale
+      - delete
+    workflows:
+      - Microservices Platform Deployment
+    personas:
+      - Platform Engineer
+  - resource: workflow-executions
+    operations:
+      - start
+      - signal
+      - cancel
+      - retry
+    workflows:
+      - Durable Business Workflow Execution
+      - Data Pipeline Orchestration
+    personas:
+      - Application Developer
+      - Data Engineer

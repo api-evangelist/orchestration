@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "orc": "https://api-evangelist.github.io/orchestration/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+
+    "Workload": "orc:Workload",
+    "WorkflowDefinition": "orc:WorkflowDefinition",
+    "Step": "orc:Step",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "namespace": {
+      "@id": "orc:namespace",
+      "@type": "xsd:string"
+    },
+    "kind": {
+      "@id": "orc:kind",
+      "@type": "xsd:string"
+    },
+    "replicas": {
+      "@id": "orc:replicas",
+      "@type": "xsd:integer"
+    },
+    "image": {
+      "@id": "orc:image",
+      "@type": "xsd:string"
+    },
+    "command": {
+      "@id": "orc:command",
+      "@container": "@list",
+      "@type": "xsd:string"
+    },
+    "env": {
+      "@id": "orc:env",
+      "@container": "@set"
+    },
+    "resources": {
+      "@id": "orc:resources"
+    },
+    "ports": {
+      "@id": "orc:ports",
+      "@container": "@set"
+    },
+    "scheduling": {
+      "@id": "orc:scheduling"
+    },
+    "autoscaling": {
+      "@id": "orc:autoscaling"
+    },
+    "status": {
+      "@id": "orc:status",
+      "@type": "xsd:string"
+    },
+
+    "version": {
+      "@id": "schema:version",
+      "@type": "xsd:string"
+    },
+    "engine": {
+      "@id": "orc:engine",
+      "@type": "xsd:string"
+    },
+    "trigger": {
+      "@id": "orc:trigger"
+    },
+    "schedule": {
+      "@id": "orc:schedule",
+      "@type": "xsd:string"
+    },
+    "event": {
+      "@id": "orc:event",
+      "@type": "xsd:string"
+    },
+    "inputs": {
+      "@id": "orc:inputs",
+      "@container": "@set"
+    },
+    "steps": {
+      "@id": "orc:steps",
+      "@container": "@list"
+    },
+    "depends_on": {
+      "@id": "orc:dependsOn",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "retry": {
+      "@id": "orc:retry"
+    },
+    "max_attempts": {
+      "@id": "orc:maxAttempts",
+      "@type": "xsd:integer"
+    },
+    "backoff": {
+      "@id": "orc:backoff",
+      "@type": "xsd:string"
+    },
+    "timeout_seconds": {
+      "@id": "orc:timeoutSeconds",
+      "@type": "xsd:integer"
+    },
+    "durable": {
+      "@id": "orc:durable",
+      "@type": "xsd:boolean"
+    },
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    }
+  }
+}

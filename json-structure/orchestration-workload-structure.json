@@ -1,0 +1,174 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/orchestration/refs/heads/main/json-structure/orchestration-workload-structure.json",
+  "name": "Workload",
+  "description": "Represents a containerized workload submitted to an orchestration platform such as Kubernetes, Nomad, ECS, or Docker Swarm.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Unique name of the workload within its namespace or scope.",
+      "example": "checkout-api"
+    },
+    "namespace": {
+      "type": "string",
+      "description": "Logical grouping the workload belongs to.",
+      "example": "payments"
+    },
+    "kind": {
+      "type": "string",
+      "description": "Kind of workload controller managing the pods or tasks.",
+      "enum": [
+        "Deployment",
+        "StatefulSet",
+        "DaemonSet",
+        "Job",
+        "CronJob",
+        "Service",
+        "Task"
+      ],
+      "example": "Deployment"
+    },
+    "replicas": {
+      "type": "integer",
+      "description": "Desired number of replicas of the workload.",
+      "example": 3
+    },
+    "image": {
+      "type": "string",
+      "description": "Container image reference.",
+      "example": "ghcr.io/example/checkout-api:1.4.2"
+    },
+    "command": {
+      "type": "array",
+      "description": "Override container entrypoint command.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "./checkout-api",
+        "--port",
+        "8080"
+      ]
+    },
+    "env": {
+      "type": "array",
+      "description": "Environment variables injected into the workload's containers.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "DATABASE_URL"
+          },
+          "value": {
+            "type": "string",
+            "example": "postgres://db.payments.svc:5432/checkout"
+          }
+        }
+      }
+    },
+    "resources": {
+      "type": "object",
+      "description": "Compute resource requests and limits.",
+      "properties": {
+        "cpu": {
+          "type": "string",
+          "example": "500m"
+        },
+        "memory": {
+          "type": "string",
+          "example": "512Mi"
+        },
+        "gpu": {
+          "type": "integer",
+          "example": 0
+        }
+      }
+    },
+    "ports": {
+      "type": "array",
+      "description": "Network ports exposed by the workload.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "http"
+          },
+          "container_port": {
+            "type": "integer",
+            "example": 8080
+          },
+          "protocol": {
+            "type": "string",
+            "enum": [
+              "TCP",
+              "UDP",
+              "SCTP"
+            ],
+            "example": "TCP"
+          }
+        }
+      }
+    },
+    "scheduling": {
+      "type": "object",
+      "description": "Constraints that influence where the workload runs.",
+      "properties": {
+        "node_selector": {
+          "type": "object",
+          "description": "Labels a node must have.",
+          "example": {
+            "topology.kubernetes.io/zone": "us-east-1a"
+          }
+        },
+        "tolerations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "example": [
+            "gpu=true:NoSchedule"
+          ]
+        }
+      }
+    },
+    "autoscaling": {
+      "type": "object",
+      "description": "Horizontal autoscaling policy for the workload.",
+      "properties": {
+        "min_replicas": {
+          "type": "integer",
+          "example": 2
+        },
+        "max_replicas": {
+          "type": "integer",
+          "example": 20
+        },
+        "target_cpu_utilization": {
+          "type": "integer",
+          "example": 70
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "description": "Observed lifecycle status of the workload.",
+      "enum": [
+        "pending",
+        "running",
+        "succeeded",
+        "failed",
+        "degraded",
+        "terminating"
+      ],
+      "example": "running"
+    }
+  },
+  "required": [
+    "name",
+    "kind",
+    "image"
+  ]
+}

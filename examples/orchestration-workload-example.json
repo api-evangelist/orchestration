@@ -1,0 +1,30 @@
+{
+  "name": "checkout-api",
+  "namespace": "payments",
+  "kind": "Deployment",
+  "replicas": 3,
+  "image": "ghcr.io/example/checkout-api:1.4.2",
+  "command": ["./checkout-api", "--port", "8080"],
+  "env": [
+    { "name": "DATABASE_URL", "value": "postgres://db.payments.svc:5432/checkout" },
+    { "name": "LOG_LEVEL", "value": "info" }
+  ],
+  "resources": {
+    "cpu": "500m",
+    "memory": "512Mi",
+    "gpu": 0
+  },
+  "ports": [
+    { "name": "http", "container_port": 8080, "protocol": "TCP" }
+  ],
+  "scheduling": {
+    "node_selector": { "topology.kubernetes.io/zone": "us-east-1a" },
+    "tolerations": ["spot=true:NoSchedule"]
+  },
+  "autoscaling": {
+    "min_replicas": 2,
+    "max_replicas": 20,
+    "target_cpu_utilization": 70
+  },
+  "status": "running"
+}

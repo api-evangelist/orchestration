@@ -1,0 +1,170 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/orchestration/refs/heads/main/json-structure/orchestration-workflow-definition-structure.json",
+  "name": "WorkflowDefinition",
+  "description": "Represents the definition of an orchestrated workflow, DAG, or state machine executed by a workflow engine.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Identifier of the workflow definition.",
+      "example": "order-fulfillment"
+    },
+    "version": {
+      "type": "string",
+      "description": "Version of the workflow definition.",
+      "example": "v2.3.0"
+    },
+    "description": {
+      "type": "string",
+      "description": "Human-readable description of what the workflow does.",
+      "example": "End-to-end fulfillment workflow."
+    },
+    "engine": {
+      "type": "string",
+      "description": "Orchestration engine that executes this workflow.",
+      "enum": [
+        "temporal",
+        "argo-workflows",
+        "step-functions",
+        "airflow",
+        "prefect",
+        "dagster",
+        "kestra",
+        "inngest",
+        "conductor",
+        "cloud-workflows",
+        "serverless-workflow"
+      ],
+      "example": "temporal"
+    },
+    "trigger": {
+      "type": "object",
+      "description": "How execution of the workflow is initiated.",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "manual",
+            "schedule",
+            "event",
+            "api",
+            "webhook"
+          ],
+          "example": "event"
+        },
+        "schedule": {
+          "type": "string",
+          "description": "Cron expression when type is schedule.",
+          "example": "0 */6 * * *"
+        },
+        "event": {
+          "type": "string",
+          "description": "Event name when type is event.",
+          "example": "order.created"
+        }
+      }
+    },
+    "inputs": {
+      "type": "array",
+      "description": "Declared input parameters for the workflow.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "order_id"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "string",
+              "integer",
+              "number",
+              "boolean",
+              "object",
+              "array"
+            ],
+            "example": "string"
+          },
+          "required": {
+            "type": "boolean",
+            "example": true
+          }
+        }
+      }
+    },
+    "steps": {
+      "type": "array",
+      "description": "Ordered list of steps comprising the workflow.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "example": "capture-payment"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "activity",
+              "task",
+              "wait",
+              "choice",
+              "parallel",
+              "map",
+              "subworkflow",
+              "human"
+            ],
+            "example": "activity"
+          },
+          "depends_on": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "example": [
+              "validate-order"
+            ]
+          },
+          "retry": {
+            "type": "object",
+            "properties": {
+              "max_attempts": {
+                "type": "integer",
+                "example": 3
+              },
+              "backoff": {
+                "type": "string",
+                "enum": [
+                  "fixed",
+                  "exponential"
+                ],
+                "example": "exponential"
+              }
+            }
+          },
+          "timeout_seconds": {
+            "type": "integer",
+            "example": 60
+          }
+        }
+      }
+    },
+    "timeout_seconds": {
+      "type": "integer",
+      "description": "Overall workflow execution timeout in seconds.",
+      "example": 86400
+    },
+    "durable": {
+      "type": "boolean",
+      "description": "Whether the workflow uses durable execution.",
+      "example": true
+    }
+  },
+  "required": [
+    "name",
+    "engine",
+    "steps"
+  ]
+}
