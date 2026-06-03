@@ -1,0 +1,25 @@
+title: Orchestration
+description: An index and topic collection covering container orchestration and workflow
+  orchestration platforms. Container orchestration platforms like Kubernetes, OpenShift,
+  Amazon EKS, Google Kubernetes Engine, and Azure Kubernetes Service schedule and
+  manage containerized workloads across clusters of machines, handling deployment,
+  scaling, networking, and self-healing. Workflow orchestration engines like Temporal,
+  Apache Airflow, Argo Workflows, AWS Step Functions, Prefect, Dagster, and Kestra
+  coordinate the execution of long-running, multi-step business processes, data pipelines,
+  and durable workflows. This collection brings together the operators, schedulers,
+  control planes, and durable execution engines that turn declarative specifications
+  into running systems.
+url: https://orchestration.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

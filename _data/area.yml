@@ -1,0 +1,226 @@
+meta:
+  name: Orchestration
+  description: An index and topic collection covering container orchestration and
+    workflow orchestration platforms. Container orchestration platforms like Kubernetes,
+    OpenShift, Amazon EKS, Google Kubernetes Engine, and Azure Kubernetes Service
+    schedule and manage containerized workloads across clusters of machines, handling
+    deployment, scaling, networking, and self-healing. Workflow orchestration engines
+    like Temporal, Apache Airflow, Argo Workflows, AWS Step Functions, Prefect, Dagster,
+    and Kestra coordinate the execution of long-running, multi-step business processes,
+    data pipelines, and durable workflows. This collection brings together the operators,
+    schedulers, control planes, and durable execution engines that turn declarative
+    specifications into running systems.
+  tags:
+  - Orchestration
+  - Container Orchestration
+  - Workflow Orchestration
+  - Kubernetes
+  - Scheduler
+  portal: https://apievangelist.com
+  github: https://github.com/api-evangelist
+  repo: orchestration
+services_tools:
+- name: Kubernetes
+  repo: https://github.com/api-evangelist/kubernetes
+  apisio: https://providers.apis.io/providers/kubernetes/
+- name: OpenShift
+  repo: https://github.com/api-evangelist/openshift
+  apisio: https://providers.apis.io/providers/openshift/
+- name: Rancher
+  repo: https://github.com/api-evangelist/rancher
+  apisio: https://providers.apis.io/providers/rancher/
+- name: HashiCorp Nomad
+  repo: https://github.com/api-evangelist/hashicorp-nomad
+  apisio: https://providers.apis.io/providers/hashicorp-nomad/
+- name: Amazon ECS
+  repo: https://github.com/api-evangelist/amazon-ecs
+  apisio: https://providers.apis.io/providers/amazon-ecs/
+- name: Amazon EKS
+  repo: https://github.com/api-evangelist/amazon-eks
+  apisio: https://providers.apis.io/providers/amazon-eks/
+- name: AWS Fargate
+  repo: https://github.com/api-evangelist/fargate
+  apisio: https://providers.apis.io/providers/fargate/
+- name: Google Kubernetes Engine
+  repo: https://github.com/api-evangelist/google-kubernetes-engine
+  apisio: https://providers.apis.io/providers/google-kubernetes-engine/
+- name: Azure Kubernetes Service
+  repo: https://github.com/api-evangelist/azure-kubernetes-service
+  apisio: https://providers.apis.io/providers/azure-kubernetes-service/
+- name: Docker Swarm
+  repo: https://github.com/api-evangelist/docker-swarm
+  apisio: https://providers.apis.io/providers/docker-swarm/
+- name: K3s
+  repo: https://github.com/api-evangelist/k3s
+  apisio: https://providers.apis.io/providers/k3s/
+- name: VMware Tanzu
+  repo: https://github.com/api-evangelist/vmware-tanzu
+  apisio: https://providers.apis.io/providers/vmware-tanzu/
+- name: Mirantis
+  repo: https://github.com/api-evangelist/mirantis
+  apisio: https://providers.apis.io/providers/mirantis/
+- name: Apache Mesos
+  repo: https://github.com/api-evangelist/apache-mesos
+  apisio: https://providers.apis.io/providers/apache-mesos/
+- name: Knative
+  repo: https://github.com/api-evangelist/knative
+  apisio: https://providers.apis.io/providers/knative/
+- name: KEDA
+  repo: https://github.com/api-evangelist/keda
+  apisio: https://providers.apis.io/providers/keda/
+- name: Crossplane
+  repo: https://github.com/api-evangelist/crossplane
+  apisio: https://providers.apis.io/providers/crossplane/
+- name: Argo CD
+  repo: https://github.com/api-evangelist/argo-cd
+  apisio: https://providers.apis.io/providers/argo-cd/
+- name: Argo Workflows
+  repo: https://github.com/api-evangelist/argo-workflows
+  apisio: https://providers.apis.io/providers/argo-workflows/
+- name: Flux CD
+  repo: https://github.com/api-evangelist/fluxcd
+  apisio: https://providers.apis.io/providers/fluxcd/
+- name: Dapr
+  repo: https://github.com/api-evangelist/dapr
+  apisio: https://providers.apis.io/providers/dapr/
+- name: Carvel
+  repo: https://github.com/api-evangelist/carvel
+  apisio: https://providers.apis.io/providers/carvel/
+- name: Codefresh
+  repo: https://github.com/api-evangelist/codefresh
+  apisio: https://providers.apis.io/providers/codefresh/
+- name: Facets
+  repo: https://github.com/api-evangelist/facets
+  apisio: https://providers.apis.io/providers/facets/
+- name: Temporal
+  repo: https://github.com/api-evangelist/temporal
+  apisio: https://providers.apis.io/providers/temporal/
+- name: Conductor
+  repo: https://github.com/api-evangelist/conductor
+  apisio: https://providers.apis.io/providers/conductor/
+- name: Netflix Conductor
+  repo: https://github.com/api-evangelist/netflix-conductor
+  apisio: https://providers.apis.io/providers/netflix-conductor/
+- name: Inngest
+  repo: https://github.com/api-evangelist/inngest
+  apisio: https://providers.apis.io/providers/inngest/
+- name: Trigger.dev
+  repo: https://github.com/api-evangelist/trigger-dev
+  apisio: https://providers.apis.io/providers/trigger-dev/
+- name: Apache Airflow
+  repo: https://github.com/api-evangelist/airflow
+  apisio: https://providers.apis.io/providers/airflow/
+- name: Apache DolphinScheduler
+  repo: https://github.com/api-evangelist/apache-dolphinscheduler
+  apisio: https://providers.apis.io/providers/apache-dolphinscheduler/
+- name: Prefect
+  repo: https://github.com/api-evangelist/prefect
+  apisio: https://providers.apis.io/providers/prefect/
+- name: Dagster
+  repo: https://github.com/api-evangelist/dagster
+  apisio: https://providers.apis.io/providers/dagster/
+- name: Kestra
+  repo: https://github.com/api-evangelist/kestra
+  apisio: https://providers.apis.io/providers/kestra/
+- name: Flyte
+  repo: https://github.com/api-evangelist/flyte
+  apisio: https://providers.apis.io/providers/flyte/
+- name: AWS Step Functions
+  repo: https://github.com/api-evangelist/aws-step-functions
+  apisio: https://providers.apis.io/providers/aws-step-functions/
+- name: Google Cloud Workflows
+  repo: https://github.com/api-evangelist/google-cloud-workflows
+  apisio: https://providers.apis.io/providers/google-cloud-workflows/
+- name: Google Cloud Composer
+  repo: https://github.com/api-evangelist/google-cloud-composer
+  apisio: https://providers.apis.io/providers/google-cloud-composer/
+- name: Google Cloud Scheduler
+  repo: https://github.com/api-evangelist/google-cloud-scheduler
+  apisio: https://providers.apis.io/providers/google-cloud-scheduler/
+- name: Google Cloud Deploy
+  repo: https://github.com/api-evangelist/google-cloud-deploy
+  apisio: https://providers.apis.io/providers/google-cloud-deploy/
+- name: Serverless Workflow
+  repo: https://github.com/api-evangelist/serverless-workflow
+  apisio: https://providers.apis.io/providers/serverless-workflow/
+features:
+- name: Declarative Workload Scheduling
+  description: Container orchestrators like Kubernetes, Nomad, and ECS take declarative
+    workload specifications (pods, jobs, services) and continuously reconcile cluster
+    state to match the desired configuration.
+- name: Horizontal and Event-Driven Autoscaling
+  description: Platforms like Kubernetes HPA, KEDA, and Karpenter scale workloads
+    and underlying nodes based on CPU, memory, custom metrics, or external event sources
+    such as queue depth.
+- name: Durable Workflow Execution
+  description: Workflow engines like Temporal, AWS Step Functions, and Inngest provide
+    durable, fault-tolerant execution for long-running, multi-step business processes
+    that survive process restarts and infrastructure failures.
+- name: Data Pipeline Orchestration
+  description: Data orchestrators like Apache Airflow, Prefect, Dagster, and Kestra
+    schedule and monitor DAG-based data pipelines across batch, streaming, and ML
+    workloads.
+- name: GitOps and Continuous Deployment
+  description: GitOps controllers like Argo CD and Flux CD reconcile Git-defined manifests
+    into running Kubernetes clusters, enabling auditable, declarative continuous deployment.
+- name: Multi-Cluster and Hybrid Cloud Control Planes
+  description: Platforms like Rancher, OpenShift, VMware Tanzu, Mirantis, and Crossplane
+    provide unified control planes for managing multiple Kubernetes clusters and cloud
+    resources across on-prem and public cloud.
+- name: Serverless Containers and Functions
+  description: Services like AWS Fargate, Knative, and Google Cloud Run abstract away
+    node management, running containers and functions on managed infrastructure billed
+    per request or per second.
+use_cases:
+- name: Microservices Platform
+  description: Engineering organizations deploy Kubernetes (EKS, GKE, AKS, OpenShift)
+    as a microservices platform, running hundreds of services with service discovery,
+    rolling deployments, and automated recovery.
+- name: Batch and Stream Data Pipelines
+  description: Data teams use Airflow, Dagster, Prefect, or Kestra to orchestrate
+    ETL/ELT pipelines, ML training workflows, and reporting jobs across warehouses,
+    lakes, and streaming sources.
+- name: Durable Business Process Workflows
+  description: Product teams use Temporal, AWS Step Functions, Conductor, or Inngest
+    to implement order processing, payments, and approval workflows that must survive
+    failures over hours, days, or months.
+- name: GitOps Continuous Delivery
+  description: Platform teams use Argo CD or Flux CD to deliver application changes
+    to many clusters by promoting Git commits across environments with full auditability.
+- name: Hybrid Cloud Cluster Fleet Management
+  description: Enterprises use Rancher, Tanzu, Mirantis Kubernetes Engine, or OpenShift
+    to manage fleets of Kubernetes clusters across on-prem datacenters and multiple
+    public clouds from one control plane.
+- name: Event-Driven Background Jobs
+  description: Application teams use Inngest, Trigger.dev, KEDA, or Cloud Scheduler
+    to run background jobs triggered by HTTP events, queue messages, schedules, or
+    webhook deliveries.
+- name: AI Agent Workflow Orchestration
+  description: AI teams use durable workflow engines like Temporal and Inngest to
+    orchestrate long-running agent workflows, tool calls, and human-in-the-loop approvals
+    with retries and replay.
+integrations:
+- name: Kubernetes
+  description: The de facto container orchestration platform from CNCF for declarative
+    scheduling, scaling, and management of containerized workloads.
+- name: Amazon EKS
+  description: AWS managed Kubernetes service with deep integration into IAM, VPC,
+    Fargate, and other AWS services.
+- name: Google Kubernetes Engine
+  description: Google Cloud's managed Kubernetes service with Autopilot, multi-cluster
+    mesh, and tight integration with GCP networking and observability.
+- name: Argo Workflows
+  description: Kubernetes-native workflow engine for running DAGs of containerized
+    steps for CI/CD, ML, and data processing.
+- name: Temporal
+  description: Durable execution platform for building long-running, fault-tolerant
+    workflows with code-defined state machines.
+- name: Apache Airflow
+  description: Open-source workflow orchestration platform for authoring, scheduling,
+    and monitoring DAG-based data pipelines.
+- name: AWS Step Functions
+  description: Serverless workflow service for coordinating AWS Lambda functions and
+    AWS services into multi-step state machines.
+- name: Argo CD
+  description: Declarative GitOps continuous delivery tool for Kubernetes that automates
+    application deployment from Git repositories.
