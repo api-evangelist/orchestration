@@ -6,7 +6,7 @@ description: >-
   Airflow, Argo Workflows, AWS Step Functions, Prefect, Dagster, and Kestra coordinate the execution of long-running, multi-step business processes, data pipelines, and durable workflows. This collection
   brings together the operators, schedulers, control planes, and durable execution engines that turn declarative specifications into running systems.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Orchestration
 - Container Orchestration
