@@ -19,13 +19,13 @@ related:
   icon: https://integrations.apievangelist.com/icon.png
   description: An index and topic collection covering the broad integration tooling market, including
     iPaaS and embedded-iPaaS platforms, workflow automation tools, unified API providers, ETL…
-- name: Pro-Code API Composition
-  url: https://pro-code-api-composition.apievangelist.com
-  icon: https://pro-code-api-composition.apievangelist.com/icon.png
-  description: An index of pro-code API composition service and tooling repos being tracked by the API
-    Evangelist network, covering workflow engines, code-first platforms, serverless…
 - name: AI Automation
   url: https://ai-automation.apievangelist.com
   icon: https://ai-automation.apievangelist.com/icon.png
   description: AI automation combines artificial intelligence with workflow and process automation to
     create intelligent, autonomous systems including AI agent frameworks, autonomous coding…
+- name: Agents
+  url: https://agents.apievangelist.com
+  icon: https://agents.apievangelist.com/icon.png
+  description: An index and topic collection covering AI agents, agent frameworks, and agent runtimes
+    that enable autonomous reasoning, tool use, and multi-step task execution. This profile…
