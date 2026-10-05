@@ -1,5 +1,6 @@
 aid: orchestration
 name: Orchestration
+kind: topic
 description: >-
   An index and topic collection covering container orchestration and workflow orchestration platforms. Container orchestration platforms like Kubernetes, OpenShift, Amazon EKS, Google Kubernetes Engine, and Azure
   Kubernetes Service schedule and manage containerized workloads across clusters of machines, handling deployment, scaling, networking, and self-healing. Workflow orchestration engines like Temporal, Apache
