@@ -1,133 +1,97 @@
-# Orchestration (orchestration)
+# Orchestration
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering container orchestration and workflow orchestration platforms. Container orchestration platforms like Kubernetes, OpenShift, Amazon EKS, Google Kubernetes Engine, and Azure Kubernetes Service schedule and manage containerized workloads across clusters of machines, handling deployment, scaling, networking, and self-healing. Workflow orchestration engines like Temporal, Apache Airflow, Argo Workflows, AWS Step Functions, Prefect, Dagster, and Kestra coordinate the execution of long-running, multi-step business processes, data pipelines, and durable workflows. This collection brings together the operators, schedulers, control planes, and durable execution engines that turn declarative specifications into running systems.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Orchestration · Container Orchestration · Workflow Orchestration · Kubernetes · Scheduler
 
-## Tags:
+## Orchestration on APIs.io
 
- - Orchestration, Container Orchestration, Workflow Orchestration, Kubernetes, Scheduler
+Everything profiled for Orchestration is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/orchestration/](https://apis.io/providers/orchestration/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Workload Schema](https://raw.githubusercontent.com/api-evangelist/orchestration/refs/heads/main/json-schema/orchestration-workload-schema.json)
-- [JSONSchema - Workflow Definition Schema](https://raw.githubusercontent.com/api-evangelist/orchestration/refs/heads/main/json-schema/orchestration-workflow-definition-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/orchestration/refs/heads/main/json-ld/orchestration-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/orchestration/refs/heads/main/vocabulary/orchestration-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Declarative Workload Scheduling | Container orchestrators like Kubernetes, Nomad, and ECS take declarative workload specifications and continuously reconcile cluster state to match the desired configuration. |
-| Horizontal and Event-Driven Autoscaling | Platforms like Kubernetes HPA, KEDA, and Karpenter scale workloads and nodes based on CPU, memory, custom metrics, or external event sources. |
-| Durable Workflow Execution | Workflow engines like Temporal, AWS Step Functions, and Inngest provide durable, fault-tolerant execution for long-running, multi-step processes. |
-| Data Pipeline Orchestration | Data orchestrators like Airflow, Prefect, Dagster, and Kestra schedule and monitor DAG-based data pipelines across batch, streaming, and ML workloads. |
-| GitOps and Continuous Deployment | GitOps controllers like Argo CD and Flux CD reconcile Git-defined manifests into running clusters, enabling auditable continuous deployment. |
-| Multi-Cluster and Hybrid Cloud Control Planes | Platforms like Rancher, OpenShift, Tanzu, Mirantis, and Crossplane provide unified control planes for managing many clusters across cloud and on-prem. |
-| Serverless Containers and Functions | Services like AWS Fargate, Knative, and Google Cloud Run abstract away node management, billing per request or per second of execution. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Microservices Platform | Engineering organizations deploy Kubernetes (EKS, GKE, AKS, OpenShift) as a microservices platform for service discovery, rolling deployments, and automated recovery. |
-| Batch and Stream Data Pipelines | Data teams use Airflow, Dagster, Prefect, or Kestra to orchestrate ETL/ELT pipelines, ML training, and reporting jobs across warehouses and lakes. |
-| Durable Business Process Workflows | Product teams use Temporal, Step Functions, Conductor, or Inngest to implement order processing, payments, and approval workflows that survive failures. |
-| GitOps Continuous Delivery | Platform teams use Argo CD or Flux CD to deliver application changes to many clusters by promoting Git commits across environments. |
-| Hybrid Cloud Cluster Fleet Management | Enterprises use Rancher, Tanzu, Mirantis Kubernetes Engine, or OpenShift to manage fleets of clusters across on-prem and public clouds. |
-| Event-Driven Background Jobs | Application teams use Inngest, Trigger.dev, KEDA, or Cloud Scheduler to run background jobs triggered by events, schedules, or webhooks. |
-| AI Agent Workflow Orchestration | AI teams use durable workflow engines like Temporal and Inngest to orchestrate long-running agent workflows, tool calls, and human-in-the-loop approvals. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Orchestration: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| Kubernetes | The de facto container orchestration platform from CNCF for declarative scheduling, scaling, and management of containerized workloads. |
-| Amazon EKS | AWS managed Kubernetes service with deep integration into IAM, VPC, Fargate, and other AWS services. |
-| Google Kubernetes Engine | Google Cloud's managed Kubernetes service with Autopilot, multi-cluster mesh, and tight GCP integration. |
-| Argo Workflows | Kubernetes-native workflow engine for running DAGs of containerized steps for CI/CD, ML, and data processing. |
-| Temporal | Durable execution platform for building long-running, fault-tolerant workflows with code-defined state machines. |
-| Apache Airflow | Open-source workflow orchestration platform for authoring, scheduling, and monitoring DAG-based data pipelines. |
-| AWS Step Functions | Serverless workflow service for coordinating AWS Lambda functions and AWS services into multi-step state machines. |
-| Argo CD | Declarative GitOps continuous delivery tool for Kubernetes that automates application deployment from Git repositories. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable API specifications organized by format.
-
-### JSON Schema
-
-- [Workload Schema](json-schema/orchestration-workload-schema.json)
-- [Workflow Definition Schema](json-schema/orchestration-workflow-definition-schema.json)
-
-### JSON Structure
-
-- [Workload Structure](json-structure/orchestration-workload-structure.json)
-- [Workflow Definition Structure](json-structure/orchestration-workflow-definition-structure.json)
-
-### JSON-LD
-
-- [Orchestration Context](json-ld/orchestration-context.jsonld)
-
-## Vocabulary
-
-- [Orchestration Vocabulary](vocabulary/orchestration-vocabulary.yaml) — Unified taxonomy mapping 6 resources, 8 actions, 3 workflows, and 3 personas across container and workflow orchestration platforms
-
-## Network
-
-This index references the following container and workflow orchestration repositories:
-
-- [Kubernetes](https://github.com/api-evangelist/kubernetes)
-- [OpenShift](https://github.com/api-evangelist/openshift)
-- [Rancher](https://github.com/api-evangelist/rancher)
-- [HashiCorp Nomad](https://github.com/api-evangelist/hashicorp-nomad)
-- [Amazon ECS](https://github.com/api-evangelist/amazon-ecs)
-- [Amazon EKS](https://github.com/api-evangelist/amazon-eks)
-- [AWS Fargate](https://github.com/api-evangelist/fargate)
-- [Google Kubernetes Engine](https://github.com/api-evangelist/google-kubernetes-engine)
-- [Azure Kubernetes Service](https://github.com/api-evangelist/azure-kubernetes-service)
-- [Docker Swarm](https://github.com/api-evangelist/docker-swarm)
-- [K3s](https://github.com/api-evangelist/k3s)
-- [VMware Tanzu](https://github.com/api-evangelist/vmware-tanzu)
-- [Mirantis](https://github.com/api-evangelist/mirantis)
-- [Apache Mesos](https://github.com/api-evangelist/apache-mesos)
-- [Knative](https://github.com/api-evangelist/knative)
-- [KEDA](https://github.com/api-evangelist/keda)
-- [Crossplane](https://github.com/api-evangelist/crossplane)
-- [Argo CD](https://github.com/api-evangelist/argo-cd)
-- [Argo Workflows](https://github.com/api-evangelist/argo-workflows)
-- [Flux CD](https://github.com/api-evangelist/fluxcd)
-- [Dapr](https://github.com/api-evangelist/dapr)
-- [Carvel](https://github.com/api-evangelist/carvel)
-- [Codefresh](https://github.com/api-evangelist/codefresh)
-- [Facets](https://github.com/api-evangelist/facets)
-- [Temporal](https://github.com/api-evangelist/temporal)
-- [Conductor](https://github.com/api-evangelist/conductor)
-- [Netflix Conductor](https://github.com/api-evangelist/netflix-conductor)
-- [Inngest](https://github.com/api-evangelist/inngest)
-- [Trigger.dev](https://github.com/api-evangelist/trigger-dev)
-- [Apache Airflow](https://github.com/api-evangelist/airflow)
-- [Apache DolphinScheduler](https://github.com/api-evangelist/apache-dolphinscheduler)
-- [Prefect](https://github.com/api-evangelist/prefect)
-- [Dagster](https://github.com/api-evangelist/dagster)
-- [Kestra](https://github.com/api-evangelist/kestra)
-- [Flyte](https://github.com/api-evangelist/flyte)
-- [AWS Step Functions](https://github.com/api-evangelist/aws-step-functions)
-- [Google Cloud Workflows](https://github.com/api-evangelist/google-cloud-workflows)
-- [Google Cloud Composer](https://github.com/api-evangelist/google-cloud-composer)
-- [Google Cloud Scheduler](https://github.com/api-evangelist/google-cloud-scheduler)
-- [Google Cloud Deploy](https://github.com/api-evangelist/google-cloud-deploy)
-- [Serverless Workflow](https://github.com/api-evangelist/serverless-workflow)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/orchestration/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
