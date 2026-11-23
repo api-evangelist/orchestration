@@ -1,7 +1,7 @@
 ---
-title: 'Introducing Zoho Sign MCP: AI-powered digital signature workflows for business'
-link: https://www.zoho.com/blog/sign/integrating-zoho-sign-with-zoho-mcp.html
-published: '2026-07-28'
+title: 'Introducing Zoho Expense MCP: Turn conversations into expense workflows'
+link: https://www.zoho.com/blog/expense/introducing-zoho-expense-mcp-turn-conversations-into-expense-workflows.html
+published: '2026-08-07'
 provider: zoho-campaigns
 repo: https://github.com/api-evangelist/zoho-campaigns
 domain: www.zoho.com

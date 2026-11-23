@@ -1,7 +1,7 @@
 ---
-title: Relaxation Trip Scheduler MCP
-link: https://vinkius.com/en/ai-agent-connect/relaxation-trip-scheduler
-published: '2026-10-08'
+title: Collection Publication Permission Workflow MCP
+link: https://vinkius.com/en/ai-agent-connect/collection-publication-permission-workflow
+published: '2026-10-12'
 provider: vinkius-com
 repo: https://github.com/api-evangelist/vinkius-com
 domain: vinkius.com
